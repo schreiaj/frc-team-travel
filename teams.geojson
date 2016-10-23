@@ -213,6 +213,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -112.81856,
+                    49.69999
+                ]
+            },
+            "properties": {
+                "website": "https://chsrobotics5725.wordpress.com/",
+                "name": "Pratt & Whitney Canada - Lethbridge  & Winston Churchill High School & Chinook High School & Chinook High School",
+                "locality": "Lethbridge",
+                "rookie_year": 2015,
+                "region": "Alberta",
+                "team_number": 5725,
+                "location": "Lethbridge, Alberta, Canada",
+                "key": "frc5725",
+                "country_name": "Canada",
+                "motto": null,
+                "nickname": "Cerberus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -114.08529,
                     51.05011
                 ]
@@ -742,8 +765,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.55021,
-                    34.76309
+                    -86.74833,
+                    34.69926
                 ]
             },
             "properties": {
@@ -977,7 +1000,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///spartrons.com",
+                "website": "http://spartrons.com",
                 "name": "Hollywood Hills High School/Motorola Solutions/Comcast & Hollywood Hills High School",
                 "locality": "Hollywood",
                 "rookie_year": 2013,
@@ -1041,8 +1064,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.63788,
-                    34.51909
+                    -82.65013,
+                    34.50344
                 ]
             },
             "properties": {
@@ -1455,6 +1478,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -89.78117,
+                    30.27519
+                ]
+            },
+            "properties": {
+                "website": "http://www.team1912.com",
+                "name": "NASA Stennis Space Center / Naval Research Laboratory / DoDSTEM / Aerojet Rocketdyne / Textron Marine & Land / Gulf Coast Pain Institute / Lew Family / Geocent, Inc. / CLECO / American Nuclear Society / Nakamoto Family / St. Tammany Parish School Board / Alliance Laser & Northshore High School & Salmen High School",
+                "locality": "Slidell",
+                "rookie_year": 2006,
+                "region": "Louisiana",
+                "team_number": 1912,
+                "location": "Slidell, Louisiana, USA",
+                "key": "frc1912",
+                "country_name": "USA",
+                "motto": "Spreading the Wildfire",
+                "nickname": "Team Combustion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -90.06563,
                     30.35825
                 ]
@@ -1777,6 +1823,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -100.346154,
+                    25.688952
+                ]
+            },
+            "properties": {
+                "website": "http://botbusters.rocks",
+                "name": "Prepa Tec. Tecnológico de Monterrey.",
+                "locality": "Monterrey",
+                "rookie_year": 2013,
+                "region": "Nuevo León",
+                "team_number": 4635,
+                "location": "Monterrey, Nuevo León, Mexico",
+                "key": "frc4635",
+                "country_name": "Mexico",
+                "motto": "Inspired and decided!",
+                "nickname": "Botbusters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -89.698109,
                     35.053141
                 ]
@@ -1938,6 +2007,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -95.916194,
+                    36.105819
+                ]
+            },
+            "properties": {
+                "website": "http://commandorobotics.com/",
+                "name": "Cascia Hall Preparatory School",
+                "locality": "Tulsa",
+                "rookie_year": 2016,
+                "region": "Oklahoma",
+                "team_number": 5889,
+                "location": "Tulsa, Oklahoma, USA",
+                "key": "frc5889",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Commandobots"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -91.623262,
                     35.765873
                 ]
@@ -2053,8 +2145,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.192204,
-                    -34.036118
+                    -50.95301,
+                    -29.90915
+                ]
+            },
+            "properties": {
+                "website": "http://www.aidtec.org",
+                "name": "General Motors Brazil/Novelis inc./General Motors/Prefeitura de Gravatai/FITESA/CARBE & AIDTEC",
+                "locality": "Gravatai",
+                "rookie_year": 2006,
+                "region": "Rio Grande do Sul",
+                "team_number": 1772,
+                "location": "Gravatai, Rio Grande do Sul, Brazil",
+                "key": "frc1772",
+                "country_name": "Brazil",
+                "motto": "\"Building robots and Changing futures\" (Construindo robos e Mudando futuros)",
+                "nickname": "The Brazilian Trail Blazers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.194191,
+                    -34.035875
                 ]
             },
             "properties": {
@@ -2122,6 +2237,75 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.194191,
+                    -34.035875
+                ]
+            },
+            "properties": {
+                "website": "http://www.first.unsw.edu.au",
+                "name": "University of NSW & University of NSW",
+                "locality": "Sydney",
+                "rookie_year": 2013,
+                "region": "New South Wales",
+                "team_number": 4729,
+                "location": "Sydney, New South Wales, Australia",
+                "key": "frc4729",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "EMUs (Experimental Mayhem Unit)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.097392,
+                    -33.722173
+                ]
+            },
+            "properties": {
+                "website": "http://normorobo.tk",
+                "name": "Sentral & Normanhurst boys high school & Normanhurst boys high",
+                "locality": "Normanhurst",
+                "rookie_year": 2013,
+                "region": "New South Wales",
+                "team_number": 4739,
+                "location": "Normanhurst, New South Wales, Australia",
+                "key": "frc4739",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Thunderbolts Robotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.194191,
+                    -34.035875
+                ]
+            },
+            "properties": {
+                "website": "http://www.thedropbears.org.au",
+                "name": "The University of Sydney / Australian Centre for Field Robotics / Symantec Corporation / Warren Smith & Partners / Ekard Concepts / The Remarkable Food Company & The University of Sydney",
+                "locality": "Sydney",
+                "rookie_year": 2013,
+                "region": "New South Wales",
+                "team_number": 4774,
+                "location": "Sydney, New South Wales, Australia",
+                "key": "frc4774",
+                "country_name": "Australia",
+                "motto": "Curious minds, curious machines",
+                "nickname": "The Drop Bears"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.905232,
                     -33.770266
                 ]
@@ -2161,6 +2345,52 @@
                 "country_name": "Singapore",
                 "motto": "There is a time for science, and there is a time for hammers!",
                 "nickname": "One Degree North"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.07386,
+                    -33.80543
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Marsden High School",
+                "locality": "West Ryde",
+                "rookie_year": 2014,
+                "region": "New South Wales",
+                "team_number": 5087,
+                "location": "West Ryde, New South Wales, Australia",
+                "key": "frc5087",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Marsden High School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.194191,
+                    -34.035875
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "BAE Systems/Google/Rockwell Automation/National Instruments/Telstra/CSIRO/AArnet & Macquarie University",
+                "locality": "Sydney",
+                "rookie_year": 2014,
+                "region": "New South Wales",
+                "team_number": 5331,
+                "location": "Sydney, New South Wales, Australia",
+                "key": "frc5331",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Lightning Bots"
             }
         },
         {
@@ -2260,6 +2490,167 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.893892,
+                    -34.428377
+                ]
+            },
+            "properties": {
+                "website": "http://www.projectb.net.au",
+                "name": "Project Bucephalus Robotics / University of Wollongong / Argosy Foundation / Moneywise Accounting / Dapto Pharmacy / Illawarra Christian School / Scouts Australia & Neighborhood Group",
+                "locality": "Wollongong",
+                "rookie_year": 2016,
+                "region": "New South Wales",
+                "team_number": 5985,
+                "location": "Wollongong, New South Wales, Australia",
+                "key": "frc5985",
+                "country_name": "Australia",
+                "motto": "Sharing. Learning. Teaching.",
+                "nickname": "Project Bucephalus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.796965,
+                    -31.647833
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Camden Haven High School",
+                "locality": "laurieton",
+                "rookie_year": 2016,
+                "region": "New South Wales",
+                "team_number": 6007,
+                "location": "laurieton, New South Wales, Australia",
+                "key": "frc6007",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "RoboPod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.461595,
+                    -35.35646
+                ]
+            },
+            "properties": {
+                "website": "http://FB house of ulladulla Game of drones",
+                "name": "Ulladulla High School",
+                "locality": "Ulladulla",
+                "rookie_year": 2016,
+                "region": "New South Wales",
+                "team_number": 6035,
+                "location": "Ulladulla, New South Wales, Australia",
+                "key": "frc6035",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "House of Ulladulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.31221,
+                    -33.99569
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Wee Waa High School",
+                "locality": "Wee Waa",
+                "rookie_year": 2016,
+                "region": "New South Wales",
+                "team_number": 6050,
+                "location": "Wee Waa, New South Wales, Australia",
+                "key": "frc6050",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Wee Waa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.69839,
+                    -32.48935
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Muswellbrook High School",
+                "locality": "Muswellbrook",
+                "rookie_year": 2016,
+                "region": "New South Wales",
+                "team_number": 6061,
+                "location": "Muswellbrook, New South Wales, Australia",
+                "key": "frc6061",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Muswellbrook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.4512,
+                    -31.9652
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Willyama High School",
+                "locality": "Broken Hill",
+                "rookie_year": 2016,
+                "region": "New South Wales",
+                "team_number": 6062,
+                "location": "Broken Hill, New South Wales, Australia",
+                "key": "frc6062",
+                "country_name": "Australia",
+                "motto": "Connect Inspire Excel Together",
+                "nickname": "Team Willy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53185,
+                    25.04776
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Taipei First Girls High School",
+                "locality": "Taipei",
+                "rookie_year": 2016,
+                "region": "Taipei",
+                "team_number": 6191,
+                "location": "Taipei, Taipei, Taiwan",
+                "key": "frc6191",
+                "country_name": "Taiwan",
+                "motto": null,
+                "nickname": "TFG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     138.59863,
                     -34.92866
                 ]
@@ -2306,22 +2697,137 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -50.95301,
-                    -29.90915
+                    105.84117,
+                    21.0245
                 ]
             },
             "properties": {
-                "website": "http://www.aidtec.org",
-                "name": "General Motors Brazil/Novelis inc./General Motors/Prefeitura de Gravatai/FITESA/CARBE & AIDTEC",
-                "locality": "Gravatai",
-                "rookie_year": 2006,
-                "region": "Rio Grande do Sul",
-                "team_number": 1772,
-                "location": "Gravatai, Rio Grande do Sul, Brazil",
-                "key": "frc1772",
-                "country_name": "Brazil",
-                "motto": "\"Building robots and Changing futures\" (Construindo robos e Mudando futuros)",
-                "nickname": "The Brazilian Trail Blazers"
+                "website": null,
+                "name": "Hanoi-Amsterdam High School for the Gifted",
+                "locality": "hanoi",
+                "rookie_year": 2017,
+                "region": "Ha Noi",
+                "team_number": 6520,
+                "location": "hanoi, Ha Noi, Vietnam",
+                "key": "frc6520",
+                "country_name": "Vietnam",
+                "motto": null,
+                "nickname": "Hanoi Amsterdam School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84117,
+                    21.0245
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Family/Community",
+                "locality": "hanoi",
+                "rookie_year": 2017,
+                "region": "Ha Noi",
+                "team_number": 6521,
+                "location": "hanoi, Ha Noi, Vietnam",
+                "key": "frc6521",
+                "country_name": "Vietnam",
+                "motto": null,
+                "nickname": "FPT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.695232,
+                    3.104244
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Methodist Boys' School",
+                "locality": "Kuala Lumpur",
+                "rookie_year": 2017,
+                "region": "Selangor",
+                "team_number": 6522,
+                "location": "Kuala Lumpur, Selangor, Malaysia",
+                "key": "frc6522",
+                "country_name": "Malaysia",
+                "motto": null,
+                "nickname": "Methodist Boys School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.15139,
+                    -33.08877
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Condobolin High School",
+                "locality": "Condobolin",
+                "rookie_year": 2017,
+                "region": "New South Wales",
+                "team_number": 6523,
+                "location": "Condobolin, New South Wales, Australia",
+                "key": "frc6523",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Condobolin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122,
+                    -25
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Cecil Andrews Senior High School",
+                "locality": "Seville Grove",
+                "rookie_year": 2017,
+                "region": "Western Australia",
+                "team_number": 6524,
+                "location": "Seville Grove, Western Australia, Australia",
+                "key": "frc6524",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Cecil Andrews Senior High School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.03966,
+                    -34.09468
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Coomealla High School",
+                "locality": "Dareton",
+                "rookie_year": 2017,
+                "region": "New South Wales",
+                "team_number": 6525,
+                "location": "Dareton, New South Wales, Australia",
+                "key": "frc6525",
+                "country_name": "Australia",
+                "motto": null,
+                "nickname": "Dareton Coomealla"
             }
         },
         {
@@ -2375,29 +2881,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.192204,
-                    -34.036118
-                ]
-            },
-            "properties": {
-                "website": "http://www.thedropbears.org.au",
-                "name": "The University of Sydney / Australian Centre for Field Robotics / Symantec Corporation / Warren Smith & Partners / Ekard Concepts / The Remarkable Food Company & The University of Sydney",
-                "locality": "Sydney",
-                "rookie_year": 2013,
-                "region": "New South Wales",
-                "team_number": 4774,
-                "location": "Sydney, New South Wales, Australia",
-                "key": "frc4774",
-                "country_name": "Australia",
-                "motto": "Curious minds, curious machines",
-                "nickname": "The Drop Bears"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.905232,
                     -33.770266
                 ]
@@ -2414,29 +2897,6 @@
                 "country_name": "Australia",
                 "motto": null,
                 "nickname": "Blacktown Girls"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.192204,
-                    -34.036118
-                ]
-            },
-            "properties": {
-                "website": "http://www.firstinspires.org/",
-                "name": "BAE Systems/Google/Rockwell Automation/National Instruments/Telstra/CSIRO/AArnet & Macquarie University",
-                "locality": "Sydney",
-                "rookie_year": 2014,
-                "region": "New South Wales",
-                "team_number": 5331,
-                "location": "Sydney, New South Wales, Australia",
-                "key": "frc5331",
-                "country_name": "Australia",
-                "motto": null,
-                "nickname": "Lightning Bots"
             }
         },
         {
@@ -2598,52 +3058,6 @@
                 "country_name": "Australia",
                 "motto": null,
                 "nickname": "ARTEMIS"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.893892,
-                    -34.428377
-                ]
-            },
-            "properties": {
-                "website": "http://www.projectb.net.au",
-                "name": "Project Bucephalus Robotics / University of Wollongong / Argosy Foundation / Moneywise Accounting / Dapto Pharmacy / Illawarra Christian School / Scouts Australia & Neighborhood Group",
-                "locality": "Wollongong",
-                "rookie_year": 2016,
-                "region": "New South Wales",
-                "team_number": 5985,
-                "location": "Wollongong, New South Wales, Australia",
-                "key": "frc5985",
-                "country_name": "Australia",
-                "motto": "Sharing. Learning. Teaching.",
-                "nickname": "Project Bucephalus"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    141.4512,
-                    -31.9652
-                ]
-            },
-            "properties": {
-                "website": "http://www.firstinspires.org/",
-                "name": "Willyama High School",
-                "locality": "Broken Hill",
-                "rookie_year": 2016,
-                "region": "New South Wales",
-                "team_number": 6062,
-                "location": "Broken Hill, New South Wales, Australia",
-                "key": "frc6062",
-                "country_name": "Australia",
-                "motto": "Connect Inspire Excel Together",
-                "nickname": "Team Willy"
             }
         },
         {
@@ -3139,7 +3553,7 @@
                 ]
             },
             "properties": {
-                "website": "http://www.fusd1robotics.org/",
+                "website": "http://www.team2486.org",
                 "name": "Findlay Toyota Flagstaff / NASA / Phoenix Analysis & Design Technologies / GKC Geoscience LLC / World Wide Technology, Inc. & Cisco / SofTrol Systems / Flagstaff Sunrise Lions Club / WL Gore & Associates / Nestle Purina / Northern Arizona University / Mr. Steve Sanghi / The Flagstaff Community via the Arizona Tax Credit Program / Flagstaff Unified School District #1 & Coconino High School",
                 "locality": "Flagstaff",
                 "rookie_year": 2008,
@@ -3150,6 +3564,29 @@
                 "country_name": "USA",
                 "motto": "GO NUTS!",
                 "nickname": "CocoNuts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07404,
+                    33.44838
+                ]
+            },
+            "properties": {
+                "website": "http://cyborgmustang.keepsblogging.com/",
+                "name": "The Boeing Company/Superstition Springs Chrysler Jeep‎/Industrial Metal Supply/Copper State Nut and Bolt/The Goode Wright Gentles Agency/Fast Grip/Q-rio/Solidworks & North High School",
+                "locality": "Phoenix",
+                "rookie_year": 2008,
+                "region": "Arizona",
+                "team_number": 2647,
+                "location": "Phoenix, Arizona, USA",
+                "key": "frc2647",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Cyborg Mustangs"
             }
         },
         {
@@ -3415,8 +3852,8 @@
                 ]
             },
             "properties": {
-                "website": "http://cobracommanders.com/",
-                "name": "Bechtel/Salt River Project/BULL/Monument Hospitality & Cactus High School",
+                "website": "http://frctem498.wix.com/cobracommanders",
+                "name": "Peoria Unified School District/Monument Hospitality/Neumont University/Arizona State School Tax Credit Donors/Jack & Connie Graves/Bechtel/Salt River Project/BULL / ATOS/Arizona Diamondbacks & Cactus High School",
                 "locality": "Glendale",
                 "rookie_year": 2001,
                 "region": "Arizona",
@@ -3633,6 +4070,29 @@
                 "country_name": "USA",
                 "motto": null,
                 "nickname": "Jaguars"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.07404,
+                    33.44838
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Sunnyslope High School",
+                "locality": "Phoenix",
+                "rookie_year": 2017,
+                "region": "Arizona",
+                "team_number": 6530,
+                "location": "Phoenix, Arizona, USA",
+                "key": "frc6530",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Slope"
             }
         },
         {
@@ -4491,8 +4951,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.91789,
-                    37.65055
+                    -122.273474,
+                    37.75478
                 ]
             },
             "properties": {
@@ -4598,7 +5058,7 @@
                 "key": "frc2839",
                 "country_name": "USA",
                 "motto": "Intelligence cubed",
-                "nickname": "The Daedalus Project"
+                "nickname": "Daedalus"
             }
         },
         {
@@ -4698,8 +5158,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.205563,
-                    34.071144
+                    -121.291686,
+                    38.872059
                 ]
             },
             "properties": {
@@ -5779,8 +6239,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.077113,
-                    33.850677
+                    -118.112278,
+                    33.846539
                 ]
             },
             "properties": {
@@ -6313,7 +6773,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///www.team2761.com",
+                "website": "http://www.team2761.com",
                 "name": "Teichert Foundation/Excelsior Metals Inc./Valley Iron, Inc. /Olson Steel/Solidworks/The Tan Family/Sierra Marina/Sunrise Medical & Family/Community",
                 "locality": "Fresno",
                 "rookie_year": 2009,
@@ -7159,18 +7619,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.04218,
-                    37.42383
+                    -122.074254,
+                    37.393196
                 ]
             },
             "properties": {
-                "website": "http://www.frc.spacecookies.org",
+                "website": "http://frc.spacecookies.org",
                 "name": "NASA Ames Research Center / St. Jude Medical Foundation / Google / Nvidia / Brin Worcicki Foundation / Qualcomm / Intuitive Surgical / Motorola / World Metal Finishing / Applied Welding / Weiss Enterprises / Solidworks / Wildbit / Fiber Internet Center & Girl Scout Troop 62868",
-                "locality": "Moffett Field",
+                "locality": "Mountain View",
                 "rookie_year": 2006,
                 "region": "California",
                 "team_number": 1868,
-                "location": "Moffett Field, California, USA",
+                "location": "Mountain View, California, USA",
                 "key": "frc1868",
                 "country_name": "USA",
                 "motto": "Girls Engineer Their Tomorrows",
@@ -7274,8 +7734,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.35566,
-                    37.43621
+                    -122.32553,
+                    37.56299
                 ]
             },
             "properties": {
@@ -7343,8 +7803,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.3089,
-                    36.23977
+                    -121.89468,
+                    36.60024
                 ]
             },
             "properties": {
@@ -7826,8 +8286,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.10915,
-                    39.75565
+                    8.230606,
+                    50.080325
                 ]
             },
             "properties": {
@@ -8314,7 +8774,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///www.RobotDolphins.com",
+                "website": "http://www.RobotDolphins.com",
                 "name": "Masimo / Boeing / Western Digital / TechSpace / CIRO Design / FUGU Corp. / Omnica Corporation / NASA / Industrial Metal Supply Co. & Dana Hills High",
                 "locality": "Dana Point",
                 "rookie_year": 2014,
@@ -8355,8 +8815,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -115.14548,
-                    36.242996
+                    -115.279104,
+                    36.190364
                 ]
             },
             "properties": {
@@ -8815,8 +9275,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.91789,
-                    37.65055
+                    -122.273474,
+                    37.75478
                 ]
             },
             "properties": {
@@ -8884,8 +9344,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.35566,
-                    37.43621
+                    -122.32553,
+                    37.56299
                 ]
             },
             "properties": {
@@ -9505,8 +9965,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.3089,
-                    36.23977
+                    -121.89468,
+                    36.60024
                 ]
             },
             "properties": {
@@ -9689,8 +10149,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.467665,
-                    37.778874
+                    -122.367443,
+                    37.919882
                 ]
             },
             "properties": {
@@ -10563,8 +11023,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.798812,
-                    39.671963
+                    -104.83192,
+                    39.72943
                 ]
             },
             "properties": {
@@ -10632,8 +11092,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.798812,
-                    39.671963
+                    -104.83192,
+                    39.72943
                 ]
             },
             "properties": {
@@ -10655,8 +11115,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.798812,
-                    39.671963
+                    -104.83192,
+                    39.72943
                 ]
             },
             "properties": {
@@ -10706,7 +11166,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///www.youngengineers.us",
+                "website": "http://www.youngengineers.us",
                 "name": "Superior Metal Products / Focused On Machining / PTC / Lockheed Martin / United Launch Alliance & Young Engineers Association ",
                 "locality": "Highlands Ranch",
                 "rookie_year": 2012,
@@ -11414,8 +11874,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.912483,
-                    41.660026
+                    -72.94927,
+                    41.67176
                 ]
             },
             "properties": {
@@ -11667,8 +12127,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.89986,
-                    41.34882
+                    -72.92816,
+                    41.30815
                 ]
             },
             "properties": {
@@ -12311,6 +12771,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -66.09169,
+                    18.45095
+                ]
+            },
+            "properties": {
+                "website": "http://www.team1872steellions.wordpress.com",
+                "name": "Colegio San Ignacio de Loyola",
+                "locality": "San Juan",
+                "rookie_year": 2006,
+                "region": "Puerto Rico",
+                "team_number": 1872,
+                "location": "San Juan, Puerto Rico, USA",
+                "key": "frc1872",
+                "country_name": "USA",
+                "motto": "Fortes in Fide",
+                "nickname": "Steel Lions"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -81.37924,
                     28.53834
                 ]
@@ -12495,8 +12978,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.535631,
-                    27.323881
+                    -82.549852,
+                    27.331803
                 ]
             },
             "properties": {
@@ -12886,6 +13369,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -80.084165,
+                    26.448915
+                ]
+            },
+            "properties": {
+                "website": "http://N/A",
+                "name": "Snap-on Tools/Classic Fence/Lockheed Martin & American Heritage School - Boca/Delray",
+                "locality": "Delray Beach ",
+                "rookie_year": 2015,
+                "region": "Florida",
+                "team_number": 5472,
+                "location": "Delray Beach , Florida, USA",
+                "key": "frc5472",
+                "country_name": "USA",
+                "motto": "We will figure it out",
+                "nickname": "Stallions"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -86.22883,
                     30.39603
                 ]
@@ -12902,6 +13408,29 @@
                 "country_name": "USA",
                 "motto": "Challenge, Achieve, Excel",
                 "nickname": "Seahawks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.315899,
+                    29.897545
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Rankin-Hinman/W & O/SFSI Engineering, Design and Project Management/Solar Stik & St Joseph Academy",
+                "locality": "St. Augustine",
+                "rookie_year": 2015,
+                "region": "Florida",
+                "team_number": 5753,
+                "location": "St. Augustine, Florida, USA",
+                "key": "frc5753",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "St. Joseph Academy Flashes"
             }
         },
         {
@@ -13132,6 +13661,29 @@
                 "country_name": "USA",
                 "motto": null,
                 "nickname": "Rock Star Robotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.31784,
+                    28.75888
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Lake Mary High School & Lyman High School & Lake Brantley High School & Crooms Academy of Information Technology & Seminole High School",
+                "locality": "Lake Mary",
+                "rookie_year": 2017,
+                "region": "Florida",
+                "team_number": 6527,
+                "location": "Lake Mary, Florida, USA",
+                "key": "frc6527",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Short SirKit"
             }
         },
         {
@@ -13461,6 +14013,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    28.790362,
+                    40.987533
+                ]
+            },
+            "properties": {
+                "website": "http://www.team5993.com",
+                "name": "Derya Plastik & İstek Özel Bilge Kağan Liseleri",
+                "locality": "Florya",
+                "rookie_year": 2016,
+                "region": "Istanbul",
+                "team_number": 5993,
+                "location": "Florya, Istanbul, Turkey",
+                "key": "frc5993",
+                "country_name": "Turkey",
+                "motto": null,
+                "nickname": "Istech Robotic Society"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -75.58333,
                     6.25
                 ]
@@ -13622,8 +14197,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.58502,
-                    41.02072
+                    28.59573,
+                    41.04521
                 ]
             },
             "properties": {
@@ -14220,6 +14795,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -84.73825,
+                    31.55823
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Calhoun County High School/NASA & Calhoun County Middle/High School",
+                "locality": "Edison",
+                "rookie_year": 2016,
+                "region": "Georgia",
+                "team_number": 5848,
+                "location": "Edison, Georgia, USA",
+                "key": "frc5848",
+                "country_name": "USA",
+                "motto": "Press towards the mark",
+                "nickname": "Calhoun County Robotics "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.17833,
+                    31.580711
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Albany High School",
+                "locality": "Albany",
+                "rookie_year": 2017,
+                "region": "Georgia",
+                "team_number": 6349,
+                "location": "Albany, Georgia, USA",
+                "key": "frc6349",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Albany High Indians"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -84.17074,
                     31.73212
                 ]
@@ -14404,8 +15025,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.42314,
-                    33.76267
+                    -89.205083,
+                    40.25246
                 ]
             },
             "properties": {
@@ -14703,29 +15324,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.73825,
-                    31.55823
-                ]
-            },
-            "properties": {
-                "website": "http://www.firstinspires.org/",
-                "name": "Calhoun County High School/NASA & Calhoun County Middle/High School",
-                "locality": "Edison",
-                "rookie_year": 2016,
-                "region": "Georgia",
-                "team_number": 5848,
-                "location": "Edison, Georgia, USA",
-                "key": "frc5848",
-                "country_name": "USA",
-                "motto": "Press towards the mark",
-                "nickname": "Calhoun County Robotics "
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -84.29409,
                     34.07538
                 ]
@@ -14765,29 +15363,6 @@
                 "country_name": "USA",
                 "motto": null,
                 "nickname": "Marist Screaming Eagles"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.17833,
-                    31.580711
-                ]
-            },
-            "properties": {
-                "website": null,
-                "name": "Albany High School",
-                "locality": "Albany",
-                "rookie_year": 2017,
-                "region": "Georgia",
-                "team_number": 6349,
-                "location": "Albany, Georgia, USA",
-                "key": "frc6349",
-                "country_name": "USA",
-                "motto": null,
-                "nickname": "Albany High Indians"
             }
         },
         {
@@ -15163,8 +15738,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.192204,
-                    -34.036118
+                    151.194191,
+                    -34.035875
                 ]
             },
             "properties": {
@@ -16267,6 +16842,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -157.85833,
+                    21.30694
+                ]
+            },
+            "properties": {
+                "website": "http://www.magmarobotics.com",
+                "name": "Kalani Robotics Academy/BristleBots/Monsanto/PTC/FedEx/Friends of Hawaii  Robotics Organization Committee & Kalani High School",
+                "locality": "Honolulu",
+                "rookie_year": 2009,
+                "region": "Hawaii",
+                "team_number": 3008,
+                "location": "Honolulu, Hawaii, USA",
+                "key": "frc3008",
+                "country_name": "USA",
+                "motto": "(Kaizen) Growth and Continual improvement",
+                "nickname": "Team Magma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -157.956578,
                     21.406567
                 ]
@@ -16329,6 +16927,52 @@
                 "country_name": "USA",
                 "motto": "Keep It Simple!",
                 "nickname": "WHEA Sharkbots"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.14771,
+                    32.50513
+                ]
+            },
+            "properties": {
+                "website": "Coming Soon",
+                "name": "INSTITUTO EDUCATIVO DEL NOROESTE A.C.",
+                "locality": "Mexicali",
+                "rookie_year": 2013,
+                "region": "Baja California",
+                "team_number": 4584,
+                "location": "Mexicali, Baja California, Mexico",
+                "key": "frc4584",
+                "country_name": "Mexico",
+                "motto": null,
+                "nickname": "SentinelFox Engineering"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.12766,
+                    19.42847
+                ]
+            },
+            "properties": {
+                "website": "http://aztlavoltfrc.wixsite.com/aztlavolt-4685",
+                "name": "Universidad Tecmilenio & HOME SCHOOL & Universidad Tecmilenio",
+                "locality": "Mexico City",
+                "rookie_year": 2013,
+                "region": "Distrito Federal",
+                "team_number": 4685,
+                "location": "Mexico City, Distrito Federal, Mexico",
+                "key": "frc4685",
+                "country_name": "Mexico",
+                "motto": "Working for a Technological Culture",
+                "nickname": "Aztlavolt"
             }
         },
         {
@@ -17555,8 +18199,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -112.03414,
-                    43.46658
+                    -112.03581,
+                    43.48777
                 ]
             },
             "properties": {
@@ -17640,6 +18284,29 @@
                 "country_name": "USA",
                 "motto": "Work now...Die Later",
                 "nickname": "Naskcorpions"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.894182,
+                    47.807654
+                ]
+            },
+            "properties": {
+                "website": "http://www.misfitrobotics.com",
+                "name": "Lakeland Booster Club / Amulet Manufacturing / Empire Airlines / Lakeland Education Foundation / Lions Club International / Johnson Metal Work / Intermax Networks / Buffalo Wild Wings / Lakeland Physical Therapy / Super One Foods / Bay Shore / KTEC / Kasco of Idaho & Lakeland Senior High School",
+                "locality": "Rathdrum",
+                "rookie_year": 2011,
+                "region": "Idaho",
+                "team_number": 3513,
+                "location": "Rathdrum, Idaho, USA",
+                "key": "frc3513",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Misfit Toys"
             }
         },
         {
@@ -18659,8 +19326,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.58502,
-                    41.02072
+                    28.59573,
+                    41.04521
                 ]
             },
             "properties": {
@@ -18682,8 +19349,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.16085,
-                    42.33626
+                    -89.226842,
+                    42.247241
                 ]
             },
             "properties": {
@@ -19579,6 +20246,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -87.34643,
+                    41.59337
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "21st Century Charter School & 21St Century Charter Sch of Gary",
+                "locality": "Gary",
+                "rookie_year": 2013,
+                "region": "Indiana",
+                "team_number": 4846,
+                "location": "Gary, Indiana, USA",
+                "key": "frc4846",
+                "country_name": "USA",
+                "motto": "Keep Calm and Stay Frosty",
+                "nickname": "G.I. Frost Bots"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -85.12886,
                     41.1306
                 ]
@@ -20200,6 +20890,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -87.40529,
+                    37.94449
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Castle High School",
+                "locality": "Newburgh",
+                "rookie_year": 2017,
+                "region": "Indiana",
+                "team_number": 6498,
+                "location": "Newburgh, Indiana, USA",
+                "key": "frc6498",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Castle High School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -86.15804,
                     39.76838
                 ]
@@ -20246,29 +20959,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.40529,
-                    37.94449
-                ]
-            },
-            "properties": {
-                "website": null,
-                "name": "Castle High School",
-                "locality": "Newburgh",
-                "rookie_year": 2017,
-                "region": "Indiana",
-                "team_number": 6498,
-                "location": "Newburgh, Indiana, USA",
-                "key": "frc6498",
-                "country_name": "USA",
-                "motto": null,
-                "nickname": "Castle High School"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -92.378117,
                     38.95026
                 ]
@@ -20285,29 +20975,6 @@
                 "country_name": "USA",
                 "motto": "Driven to Succeed",
                 "nickname": "Team Driven"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.78117,
-                    30.27519
-                ]
-            },
-            "properties": {
-                "website": "http://www.team1912.com",
-                "name": "NASA Stennis Space Center / Naval Research Laboratory / DoDSTEM / Aerojet Rocketdyne / Textron Marine & Land / Gulf Coast Pain Institute / Lew Family / Geocent, Inc. / CLECO / American Nuclear Society / Nakamoto Family / St. Tammany Parish School Board / Alliance Laser & Northshore High School & Salmen High School",
-                "locality": "Slidell",
-                "rookie_year": 2006,
-                "region": "Louisiana",
-                "team_number": 1912,
-                "location": "Slidell, Louisiana, USA",
-                "key": "frc1912",
-                "country_name": "USA",
-                "motto": "Spreading the Wildfire",
-                "nickname": "Team Combustion"
             }
         },
         {
@@ -20545,6 +21212,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -91.15455,
+                    30.45075
+                ]
+            },
+            "properties": {
+                "website": "http://www.team4209.org/",
+                "name": "Neighborhood Group/Exxon Mobil",
+                "locality": "Baton Rouge",
+                "rookie_year": 2012,
+                "region": "Louisiana",
+                "team_number": 4209,
+                "location": "Baton Rouge, Louisiana, USA",
+                "key": "frc4209",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "TigerBytes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -92.01984,
                     30.22409
                 ]
@@ -20584,6 +21274,29 @@
                 "country_name": "USA",
                 "motto": "Team work makes the Dream work!",
                 "nickname": "Krewe de Reauxbotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36327,
+                    29.76328
+                ]
+            },
+            "properties": {
+                "website": "http://www.jerseyvoltage.com",
+                "name": "Texas Direct Auto & Associates / Oceaneering International / NAPA / EMI / Dent Free America / Texas Workforce Commission / Chandra Foundation / Redstone / Attractions Unlimited, Inc. / T Systems / The Nut Place / Shawn's Custom Tees / All Media Printers / Fortified & Jersey Village High School",
+                "locality": "Houston",
+                "rookie_year": 2013,
+                "region": "Texas",
+                "team_number": 4587,
+                "location": "Houston, Texas, USA",
+                "key": "frc4587",
+                "country_name": "USA",
+                "motto": "It's all about the Voltage",
+                "nickname": "Jersey Voltage"
             }
         },
         {
@@ -20775,8 +21488,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.537919,
-                    43.242246
+                    -71.559532,
+                    43.231654
                 ]
             },
             "properties": {
@@ -20982,6 +21695,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -71.094989,
+                    42.331388
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "O'Bryant Sch Math/Science",
+                "locality": "Roxbury Crossing",
+                "rookie_year": 2017,
+                "region": "Massachusetts",
+                "team_number": 6529,
+                "location": "Roxbury Crossing, Massachusetts, USA",
+                "key": "frc6529",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Beantown Blitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -71.134337,
                     42.386109
                 ]
@@ -21166,8 +21902,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.083106,
-                    42.298739
+                    -71.39673,
+                    42.08343
                 ]
             },
             "properties": {
@@ -21465,8 +22201,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.86272,
-                    42.545095
+                    -70.88005,
+                    42.55843
                 ]
             },
             "properties": {
@@ -21626,8 +22362,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.149926,
-                    42.700296
+                    -71.166096,
+                    42.700736
                 ]
             },
             "properties": {
@@ -21695,8 +22431,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.537919,
-                    43.242246
+                    -71.559532,
+                    43.231654
                 ]
             },
             "properties": {
@@ -21718,8 +22454,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.428478,
-                    42.974874
+                    -2.23743,
+                    53.48095
                 ]
             },
             "properties": {
@@ -22569,8 +23305,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.083106,
-                    42.298739
+                    -71.39673,
+                    42.08343
                 ]
             },
             "properties": {
@@ -22730,8 +23466,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.537919,
-                    43.242246
+                    -71.559532,
+                    43.231654
                 ]
             },
             "properties": {
@@ -23535,8 +24271,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.175312,
-                    38.887233
+                    -77.176065,
+                    38.886493
                 ]
             },
             "properties": {
@@ -23558,8 +24294,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.99248,
-                    39.26427
+                    138.521191,
+                    -34.982218
                 ]
             },
             "properties": {
@@ -23696,8 +24432,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.297094,
-                    38.793576
+                    -77.266923,
+                    38.769966
                 ]
             },
             "properties": {
@@ -23903,8 +24639,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.175312,
-                    38.887233
+                    -77.176065,
+                    38.886493
                 ]
             },
             "properties": {
@@ -24133,8 +24869,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.175312,
-                    38.887233
+                    -77.176065,
+                    38.886493
                 ]
             },
             "properties": {
@@ -24271,8 +25007,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.45743,
-                    38.4207
+                    -77.40832,
+                    38.42207
                 ]
             },
             "properties": {
@@ -25835,6 +26571,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -83.18965,
+                    42.09504
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Oscar A. Carlson High School",
+                "locality": "Gibraltar",
+                "rookie_year": 2017,
+                "region": "Michigan",
+                "team_number": 6528,
+                "location": "Gibraltar, Michigan, USA",
+                "key": "frc6528",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "GTEK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -83.21104,
                     42.25754
                 ]
@@ -26180,6 +26939,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -82.88881,
+                    42.49698
+                ]
+            },
+            "properties": {
+                "website": "http://themightycavbots.com",
+                "name": "The FCA Foundation/Michigan Department of Education, Office of Education Improvement and Innovation,  2014-2015 Section 99h: Competitive FIRST Robotics Grants/K & K Stamping Company/DeRonne TrueValue Hardware/Roy O'Brien, Inc. - Ford/Michigan First Credit Union/Michael &  Jackie Damiani Family/Charles & Patricia Jackson Family/James & Kelly Stinson Family/Ms. Ruthie Russell/The Mark & Heidi Sturgis Family/James P. Ryan Family & South Lake High School",
+                "locality": "Saint Clair Shores",
+                "rookie_year": 2014,
+                "region": "Michigan",
+                "team_number": 5214,
+                "location": "Saint Clair Shores, Michigan, USA",
+                "key": "frc5214",
+                "country_name": "USA",
+                "motto": "When we try … we succeed!",
+                "nickname": "The Mighty CavBots"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -83.167328,
                     42.398586
                 ]
@@ -26278,6 +27060,29 @@
             },
             "properties": {
                 "website": "http://www.firstinspires.org/",
+                "name": "University Preparatory Science and Math (Psad) Hig",
+                "locality": "Detroit",
+                "rookie_year": 2016,
+                "region": "Michigan",
+                "team_number": 6096,
+                "location": "Detroit, Michigan, USA",
+                "key": "frc6096",
+                "country_name": "USA",
+                "motto": "Anything a mind can imagine it can create",
+                "nickname": "UPSM Cobras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.167328,
+                    42.398586
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
                 "name": "Osborn College Preparatory Academy",
                 "locality": "Detroit",
                 "rookie_year": 2016,
@@ -26357,6 +27162,29 @@
                 "country_name": "USA",
                 "motto": "FEAR OUR BUBBLES",
                 "nickname": "Genesee Robotics Area Youth Team (GRAYT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.438396,
+                    47.265716
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Baraga Telephone/U.P.net / The Saavedra Family / Grandma and Grandpa Stroup / The Laemmerich Family / Calumet High School & Calumet High School",
+                "locality": "Calumet",
+                "rookie_year": 2008,
+                "region": "Michigan",
+                "team_number": 2586,
+                "location": "Calumet, Michigan, USA",
+                "key": "frc2586",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Copper Bots"
             }
         },
         {
@@ -27698,8 +28526,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.373581,
-                    42.540727
+                    -83.378343,
+                    42.462296
                 ]
             },
             "properties": {
@@ -30481,8 +31309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -158.111628,
-                    21.341777
+                    -83.80471,
+                    44.37779
                 ]
             },
             "properties": {
@@ -31332,8 +32160,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.836145,
-                    33.652176
+                    -84.55445,
+                    42.737614
                 ]
             },
             "properties": {
@@ -32321,8 +33149,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.45585,
-                    44.98557
+                    28.04363,
+                    -26.20227
                 ]
             },
             "properties": {
@@ -32390,8 +33218,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.24017,
-                    45.26715
+                    -85.255917,
+                    45.312455
                 ]
             },
             "properties": {
@@ -32758,6 +33586,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -86.240581,
+                    43.202923
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "MUSKEGON HEIGHTS HIGH SCHOOL",
+                "locality": "Muskegon Heights",
+                "rookie_year": 2014,
+                "region": "Michigan",
+                "team_number": 5255,
+                "location": "Muskegon Heights, Michigan, USA",
+                "key": "frc5255",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Robotic Tigers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -85.48366,
                     43.69808
                 ]
@@ -32896,6 +33747,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -86.364023,
+                    43.6982
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Hart High School",
+                "locality": "Hart",
+                "rookie_year": 2016,
+                "region": "Michigan",
+                "team_number": 6128,
+                "location": "Hart, Michigan, USA",
+                "key": "frc6128",
+                "country_name": "USA",
+                "motto": "Pirate",
+                "nickname": "The Automatics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -85.93477,
                     43.06391
                 ]
@@ -32988,8 +33862,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.20034,
-                    46.356492
+                    -94.20083,
+                    46.35802
                 ]
             },
             "properties": {
@@ -34236,7 +35110,7 @@
             },
             "properties": {
                 "website": "http://frc.newulmrobotics.com",
-                "name": "3M / Precision Tool / AMPI / DLC Manufacturing & Fabrication / MN National Guard / Windings / Buddy Acres Woodworks / Bolton & Menk & New Ulm High School",
+                "name": "3M/Precision Tool/AMPI/DLC Manufacturing & Fabrication/MN National Guard/Windings/Buddy Acres Woodworks/Bolton & Menk & New Ulm Area Catholic Schools & New Ulm High School",
                 "locality": "New Ulm",
                 "rookie_year": 2009,
                 "region": "Minnesota",
@@ -34736,8 +35610,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.958135,
-                    46.4823
+                    -93.957142,
+                    46.489234
                 ]
             },
             "properties": {
@@ -35403,8 +36277,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.436849,
-                    44.939081
+                    -93.50329,
+                    44.9133
                 ]
             },
             "properties": {
@@ -37611,18 +38485,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.56218,
-                    39.13
+                    -94.57857,
+                    39.09973
                 ]
             },
             "properties": {
                 "website": "http://www.northtownrobotics.com",
                 "name": "ClayCo Electric Company / NKC Iron and Metal / KC STEM Alliance / North Kansas City Education Foundation / Lowe's  / First Missouri Bank / North Kansas City Nuts & Bolts / America*s NAVY / Northtown PTSA / Sam's Club / Regal Plastics / Walmart & North Kansas City High",
-                "locality": "North Kansas City",
+                "locality": "Kansas City",
                 "rookie_year": 2014,
                 "region": "Missouri",
                 "team_number": 5098,
-                "location": "North Kansas City, Missouri, USA",
+                "location": "Kansas City, Missouri, USA",
                 "key": "frc5098",
                 "country_name": "USA",
                 "motto": "If you're not FIRST, You're Last",
@@ -38076,7 +38950,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///www.robohawks1985.org",
+                "website": "http://www.robohawks1985.org",
                 "name": "The Boeing Company / Monsanto Fund / Hazelwood School District  / HCHS Student Council & Pep Club & Hazelwood Central High",
                 "locality": "Florissant",
                 "rookie_year": 2007,
@@ -38830,29 +39704,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -100.315238,
-                    25.685163
-                ]
-            },
-            "properties": {
-                "website": "http://botbusters.rocks",
-                "name": "Prepa Tec. Tecnológico de Monterrey.",
-                "locality": "Monterrey",
-                "rookie_year": 2013,
-                "region": "Nuevo León",
-                "team_number": 4635,
-                "location": "Monterrey, Nuevo León, Mexico",
-                "key": "frc4635",
-                "country_name": "Mexico",
-                "motto": "Inspired and decided!",
-                "nickname": "Botbusters"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -103.407695,
                     25.539832
                 ]
@@ -38945,6 +39796,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -97.86772,
+                    22.27817
+                ]
+            },
+            "properties": {
+                "website": "https://www.facebook.com/titaniumrams/",
+                "name": "Argosy Foundation & Instituto Tecnologico y de Estudios Superiores de Monterrey Campus Tampico",
+                "locality": "Tampico",
+                "rookie_year": 2016,
+                "region": "Tamaulipas",
+                "team_number": 5959,
+                "location": "Tampico, Tamaulipas, Mexico",
+                "key": "frc5959",
+                "country_name": "Mexico",
+                "motto": null,
+                "nickname": "Titanium Rams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -106.4062,
                     23.2329
                 ]
@@ -39014,8 +39888,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -100.315238,
-                    25.685163
+                    -100.346154,
+                    25.688952
                 ]
             },
             "properties": {
@@ -39060,8 +39934,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -106.19876,
-                    28.82669
+                    -106.099908,
+                    28.662926
                 ]
             },
             "properties": {
@@ -39083,8 +39957,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -106.19876,
-                    28.82669
+                    -106.099908,
+                    28.662926
                 ]
             },
             "properties": {
@@ -39099,6 +39973,52 @@
                 "country_name": "Mexico",
                 "motto": null,
                 "nickname": "Prepa Tec Chihuahua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.498722,
+                    31.730837
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Universidad Tec Milenio campus Ciudad Juarez",
+                "locality": "juarez",
+                "rookie_year": 2017,
+                "region": "Chihuahua",
+                "team_number": 6483,
+                "location": "juarez, Chihuahua, Mexico",
+                "key": "frc6483",
+                "country_name": "Mexico",
+                "motto": null,
+                "nickname": "CHARGER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.28835,
+                    26.08061
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Universidad TecMilenio Campus Reynosa",
+                "locality": "Reynosa",
+                "rookie_year": 2017,
+                "region": "Tamaulipas",
+                "team_number": 6507,
+                "location": "Reynosa, Tamaulipas, Mexico",
+                "key": "frc6507",
+                "country_name": "Mexico",
+                "motto": null,
+                "nickname": "ELEKTRON"
             }
         },
         {
@@ -39175,8 +40095,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.893933,
-                    39.740446
+                    -105.032814,
+                    39.736612
                 ]
             },
             "properties": {
@@ -39612,8 +40532,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.214832,
-                    32.864754
+                    -78.351514,
+                    35.509896
                 ]
             },
             "properties": {
@@ -40302,8 +41222,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.214832,
-                    32.864754
+                    -78.351514,
+                    35.509896
                 ]
             },
             "properties": {
@@ -40440,8 +41360,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.537919,
-                    43.242246
+                    -71.559532,
+                    43.231654
                 ]
             },
             "properties": {
@@ -40969,8 +41889,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.863628,
-                    40.511319
+                    -74.860293,
+                    40.508425
                 ]
             },
             "properties": {
@@ -40992,8 +41912,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.233062,
-                    40.780723
+                    -74.23265,
+                    40.77066
                 ]
             },
             "properties": {
@@ -41015,8 +41935,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.111824,
-                    40.938449
+                    -74.515827,
+                    40.625559
                 ]
             },
             "properties": {
@@ -41176,8 +42096,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.944375,
-                    37.956359
+                    -79.56977,
+                    40.70729
                 ]
             },
             "properties": {
@@ -41912,8 +42832,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.72651,
-                    39.91996
+                    -76.724101,
+                    39.959114
                 ]
             },
             "properties": {
@@ -42096,8 +43016,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.304104,
-                    40.006145
+                    -75.28546,
+                    40.00678
                 ]
             },
             "properties": {
@@ -42625,8 +43545,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.774534,
-                    32.835594
+                    -96.115405,
+                    33.108424
                 ]
             },
             "properties": {
@@ -42671,8 +43591,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -115.14548,
-                    36.242996
+                    -115.279104,
+                    36.190364
                 ]
             },
             "properties": {
@@ -42832,8 +43752,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -115.14548,
-                    36.242996
+                    -115.279104,
+                    36.190364
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "Southwest Career and Techinical Academy",
+                "locality": "Las Vegas",
+                "rookie_year": 2017,
+                "region": "Nevada",
+                "team_number": 6519,
+                "location": "Las Vegas, Nevada, USA",
+                "key": "frc6519",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "The Vegas Vortechs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.279104,
+                    36.190364
                 ]
             },
             "properties": {
@@ -42917,6 +43860,29 @@
                 "country_name": "USA",
                 "motto": null,
                 "nickname": "Robotic Knights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.609785,
+                    40.651124
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Northrop-Grumman/Baldwin Foundation for Education & Baldwin Senior High School",
+                "locality": "Baldwin",
+                "rookie_year": 2005,
+                "region": "New York",
+                "team_number": 1546,
+                "location": "Baldwin, New York, USA",
+                "key": "frc1546",
+                "country_name": "USA",
+                "motto": "Together Everyone Achieves More",
+                "nickname": "Chaos, Inc."
             }
         },
         {
@@ -43775,8 +44741,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.561478,
-                    40.754879
+                    -73.58763,
+                    40.75566
                 ]
             },
             "properties": {
@@ -44810,6 +45776,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -73.940748,
+                    40.638318
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Leon M Goldstein High School for the Sciences",
+                "locality": "Brooklyn",
+                "rookie_year": 2016,
+                "region": "New York",
+                "team_number": 6195,
+                "location": "Brooklyn, New York, USA",
+                "key": "frc6195",
+                "country_name": "USA",
+                "motto": "Get the Gold!",
+                "nickname": "GOLDBOTS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.483385,
                     31.246027
                 ]
@@ -45109,8 +46098,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.210213,
-                    43.106996
+                    150.918128,
+                    -33.921714
                 ]
             },
             "properties": {
@@ -45431,8 +46420,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.833198,
-                    42.096729
+                    -76.80773,
+                    42.0898
                 ]
             },
             "properties": {
@@ -45776,8 +46765,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.786143,
-                    42.682499
+                    -73.75623,
+                    42.65258
                 ]
             },
             "properties": {
@@ -45868,8 +46857,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -69.909922,
-                    18.603139
+                    -69.98857,
+                    18.50012
                 ]
             },
             "properties": {
@@ -45983,8 +46972,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.786143,
-                    42.682499
+                    -73.75623,
+                    42.65258
                 ]
             },
             "properties": {
@@ -46006,8 +46995,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.005107,
-                    40.804167
+                    -73.79096,
+                    42.25286
                 ]
             },
             "properties": {
@@ -46236,8 +47225,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.786143,
-                    42.682499
+                    -73.75623,
+                    42.65258
                 ]
             },
             "properties": {
@@ -46305,8 +47294,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.216345,
-                    38.476397
+                    120.935142,
+                    14.385404
                 ]
             },
             "properties": {
@@ -46604,8 +47593,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.224539,
-                    41.400582
+                    -82.22238,
+                    41.39782
                 ]
             },
             "properties": {
@@ -47524,8 +48513,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.402606,
-                    47.667961
+                    -81.93534,
+                    37.83153
                 ]
             },
             "properties": {
@@ -47667,7 +48656,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///www.harrisonrobotics.com",
+                "website": "http://www.harrisonrobotics.com",
                 "name": "Proctor and Gamble / Cincinnati Incorporated & William Henry Harrison High School & Great Oaks Career Campuses",
                 "locality": "Harrison",
                 "rookie_year": 2013,
@@ -48789,29 +49778,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.916194,
-                    36.105819
-                ]
-            },
-            "properties": {
-                "website": "http://commandorobotics.com/",
-                "name": "Cascia Hall Preparatory School",
-                "locality": "Tulsa",
-                "rookie_year": 2016,
-                "region": "Oklahoma",
-                "team_number": 5889,
-                "location": "Tulsa, Oklahoma, USA",
-                "key": "frc5889",
-                "country_name": "USA",
-                "motto": null,
-                "nickname": "Commandobots"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -95.151737,
                     36.290913
                 ]
@@ -49472,6 +50438,29 @@
                 "country_name": "Canada",
                 "motto": null,
                 "nickname": "Wyverns Robotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.794738,
+                    42.113392
+                ]
+            },
+            "properties": {
+                "website": null,
+                "name": "SUTTON DISTRICT HIGH SCHOOL",
+                "locality": "Sutton West",
+                "rookie_year": 2017,
+                "region": "Ontario",
+                "team_number": 6514,
+                "location": "Sutton West, Ontario, Canada",
+                "key": "frc6514",
+                "country_name": "Canada",
+                "motto": null,
+                "nickname": "Sutton Sabres"
             }
         },
         {
@@ -50169,6 +51158,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -79.750177,
+                    43.711894
+                ]
+            },
+            "properties": {
+                "website": "http://bramptonrobotics.org",
+                "name": "Family/Community",
+                "locality": "Brampton",
+                "rookie_year": 2017,
+                "region": "Ontario",
+                "team_number": 6387,
+                "location": "Brampton, Ontario, Canada",
+                "key": "frc6387",
+                "country_name": "Canada",
+                "motto": null,
+                "nickname": "Discobots Canada (Brampton Robotics Education)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -88.159405,
                     30.700588
                 ]
@@ -50230,7 +51242,7 @@
                 "key": "frc773",
                 "country_name": "Canada",
                 "motto": null,
-                "nickname": "Kingsville Kukes"
+                "nickname": "Kingsville CavalGears"
             }
         },
         {
@@ -50744,6 +51756,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -82.316372,
+                    43.024373
+                ]
+            },
+            "properties": {
+                "website": "http://sfxprovidence.wix.com/1846levortex",
+                "name": "Ontario Power Generation & ECOLE SECONDAIRE ST. FRANCOIS XAVIER",
+                "locality": "Sarnia",
+                "rookie_year": 2006,
+                "region": "Ontario",
+                "team_number": 1846,
+                "location": "Sarnia, Ontario, Canada",
+                "key": "frc1846",
+                "country_name": "Canada",
+                "motto": "L'innovation est une affaire de communauté!",
+                "nickname": "Le Vortex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -80.09598,
                     44.41833
                 ]
@@ -50951,8 +51986,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.833198,
-                    42.096729
+                    -76.80773,
+                    42.0898
                 ]
             },
             "properties": {
@@ -51664,29 +52699,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.794738,
-                    42.113392
-                ]
-            },
-            "properties": {
-                "website": null,
-                "name": "SUTTON DISTRICT HIGH SCHOOL",
-                "locality": "Sutton West",
-                "rookie_year": 2017,
-                "region": "Ontario",
-                "team_number": 6514,
-                "location": "Sutton West, Ontario, Canada",
-                "key": "frc6514",
-                "country_name": "Canada",
-                "motto": null,
-                "nickname": "Sutton Sabres"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -79.4163,
                     43.76681
                 ]
@@ -51818,29 +52830,6 @@
                 "country_name": "Canada",
                 "motto": null,
                 "nickname": "KYS Robotics"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.750177,
-                    43.711894
-                ]
-            },
-            "properties": {
-                "website": "http://bramptonrobotics.org",
-                "name": "Family/Community",
-                "locality": "Brampton",
-                "rookie_year": 2017,
-                "region": "Ontario",
-                "team_number": 6387,
-                "location": "Brampton, Ontario, Canada",
-                "key": "frc6387",
-                "country_name": "Canada",
-                "motto": null,
-                "nickname": "Discobots Canada (Brampton Robotics Education)"
             }
         },
         {
@@ -52032,8 +53021,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.09243,
-                    31.97402
+                    0.529978,
+                    51.356083
                 ]
             },
             "properties": {
@@ -52630,8 +53619,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.877848,
-                    45.740471
+                    -122.878595,
+                    45.754182
                 ]
             },
             "properties": {
@@ -53688,8 +54677,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.91391,
-                    38.525607
+                    -81.89347,
+                    38.53314
                 ]
             },
             "properties": {
@@ -54746,8 +55735,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.794777,
-                    41.455369
+                    -75.371242,
+                    39.903704
                 ]
             },
             "properties": {
@@ -54785,6 +55774,29 @@
                 "country_name": "USA",
                 "motto": null,
                 "nickname": "Wolfpack Robotics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71632,
+                    39.44956
+                ]
+            },
+            "properties": {
+                "website": "http://www.team1370.org/",
+                "name": "Appoquinimink School District / Friends of Middletown Robotics / DuPont Engineering / Big Ball Maraton / Friendly's  / Pretzel Boy / Town of Middletown, DE / New Castle County & APPOQUINIMINK HIGH SCHOOL & MIDDLETOWN HIGH SCHOOL",
+                "locality": "Middletown",
+                "rookie_year": 2004,
+                "region": "Delaware",
+                "team_number": 1370,
+                "location": "Middletown, Delaware, USA",
+                "key": "frc1370",
+                "country_name": "USA",
+                "motto": "Construimus.  Certamus.  Movemus.",
+                "nickname": "Thermogenesis"
             }
         },
         {
@@ -55206,8 +56218,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -123.13683,
-                    49.17003
+                    145.002272,
+                    -37.819309
                 ]
             },
             "properties": {
@@ -55298,8 +56310,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.765013,
-                    52.03334
+                    -71.883426,
+                    41.805037
                 ]
             },
             "properties": {
@@ -55436,8 +56448,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.765013,
-                    52.03334
+                    -71.883426,
+                    41.805037
                 ]
             },
             "properties": {
@@ -55459,8 +56471,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.765013,
-                    52.03334
+                    -71.883426,
+                    41.805037
                 ]
             },
             "properties": {
@@ -55850,6 +56862,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -78.923671,
+                    33.673182
+                ]
+            },
+            "properties": {
+                "website": "http://www.FRCTeam1287.com",
+                "name": "Horry County Schools/Grand Strand Technology Council/Santee Cooper & Academy for Arts/Science/Technology",
+                "locality": "Myrtle Beach",
+                "rookie_year": 2004,
+                "region": "South Carolina",
+                "team_number": 1287,
+                "location": "Myrtle Beach, South Carolina, USA",
+                "key": "frc1287",
+                "country_name": "USA",
+                "motto": "Best work, First time, On time",
+                "nickname": "Aluminum Assault"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -81.03481,
                     34.00071
                 ]
@@ -56034,29 +57069,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -157.85833,
-                    21.30694
-                ]
-            },
-            "properties": {
-                "website": "http://www.magmarobotics.com",
-                "name": "Kalani Robotics Academy/BristleBots/Monsanto/PTC/FedEx/Friends of Hawaii  Robotics Organization Committee & Kalani High School",
-                "locality": "Honolulu",
-                "rookie_year": 2009,
-                "region": "Hawaii",
-                "team_number": 3008,
-                "location": "Honolulu, Hawaii, USA",
-                "key": "frc3008",
-                "country_name": "USA",
-                "motto": "(Kaizen) Growth and Continual improvement",
-                "nickname": "Team Magma"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -83.969472,
                     35.973011
                 ]
@@ -56177,7 +57189,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///rohawktics.org",
+                "website": "http://rohawktics.org",
                 "name": "ORNL / UT Battelle / DOE  MDF  Advanced Manufacturing Office / Local Motors / Bechtel / DowAksa / Knox County Schools / Naoko Blue & Associates / Boeing / Consolidated Nuclear Security / Ingenutec / Magnum Venus Products / Techmeres Engineered Solutions / TVA / 3DSystems / Phillips & Jordan / Soccer Taco / Sharp Outdoor Media, LLC / Composite Envisions & Hardin Valley Academy",
                 "locality": "Knoxville",
                 "rookie_year": 2011,
@@ -56678,29 +57690,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -78.923671,
-                    33.673182
-                ]
-            },
-            "properties": {
-                "website": "http://www.FRCTeam1287.com",
-                "name": "Horry County Schools/Grand Strand Technology Council/Santee Cooper & Academy for Arts/Science/Technology",
-                "locality": "Myrtle Beach",
-                "rookie_year": 2004,
-                "region": "South Carolina",
-                "team_number": 1287,
-                "location": "Myrtle Beach, South Carolina, USA",
-                "key": "frc1287",
-                "country_name": "USA",
-                "motto": "Best work, First time, On time",
-                "nickname": "Aluminum Assault"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -85.75941,
                     38.25424
                 ]
@@ -56724,8 +57713,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.54277,
-                    39.19553
+                    -84.56134,
+                    39.3995
                 ]
             },
             "properties": {
@@ -57161,8 +58150,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71,
-                    -30
+                    -70.64827,
+                    -33.45694
                 ]
             },
             "properties": {
@@ -57805,6 +58794,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -96.63888,
+                    32.91262
+                ]
+            },
+            "properties": {
+                "website": "http://NFHSREO.weebly.com",
+                "name": "Naaman Forest H S",
+                "locality": "Garland",
+                "rookie_year": 2017,
+                "region": "Texas",
+                "team_number": 6526,
+                "location": "Garland, Texas, USA",
+                "key": "frc6526",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "Cyber Rangers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -96.99778,
                     32.74596
                 ]
@@ -57844,6 +58856,52 @@
                 "country_name": "USA",
                 "motto": "Where Imagination Runs Deep",
                 "nickname": "Blarglefish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4351,
+                    32.7361
+                ]
+            },
+            "properties": {
+                "website": "http://www.dhs-robotics.net/",
+                "name": "Bell Helicopter & Dunbar H S",
+                "locality": "Ft. Worth",
+                "rookie_year": 2005,
+                "region": "Texas",
+                "team_number": 1642,
+                "location": "Ft. Worth, Texas, USA",
+                "key": "frc1642",
+                "country_name": "USA",
+                "motto": "Safety and fun for all",
+                "nickname": "Techno-Cats"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2091,
+                    29.69106
+                ]
+            },
+            "properties": {
+                "website": "http://www.team231.com",
+                "name": "Texas Workforce Commisson/Oceaneering Space Systems/LyondellBasell/Chevron Phillips & Pasadena Independent School District",
+                "locality": "Pasadena",
+                "rookie_year": 1998,
+                "region": "Texas",
+                "team_number": 231,
+                "location": "Pasadena, Texas, USA",
+                "key": "frc231",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "High Voltage"
             }
         },
         {
@@ -57948,7 +59006,7 @@
                 ]
             },
             "properties": {
-                "website": "http:///www.kleinbots3735.org",
+                "website": "http://www.kleinbots3735.org",
                 "name": "NRG Energy / Crow Corporation / Champion Fiberglass / First in Texas / Texas Workforce Commision / Sterling Structures / Hornet Appliance / Process Solutions / Steel Supply / Spring Ace Hardware & Klein ISD",
                 "locality": "Spring",
                 "rookie_year": 2011,
@@ -58051,6 +59109,29 @@
                 "country_name": "USA",
                 "motto": "Monkeying Around with the Future",
                 "nickname": "Grease Monkeys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8244,
+                    29.78579
+                ]
+            },
+            "properties": {
+                "website": "http://www.team4639.org",
+                "name": "NALCO Champion/Schlumberger/GE/Bechtel/Texas Workforce Commission/Greater Texas Foundation/FIRST® in Texas/PTC/Phillips 66/HEB/Walmart/Dow Chemical & Seven Lakes High School",
+                "locality": "Katy",
+                "rookie_year": 2013,
+                "region": "Texas",
+                "team_number": 4639,
+                "location": "Katy, Texas, USA",
+                "key": "frc4639",
+                "country_name": "USA",
+                "motto": null,
+                "nickname": "RoboSpartans"
             }
         },
         {
@@ -58258,6 +59339,29 @@
                 "country_name": "USA",
                 "motto": "Raider Power!",
                 "nickname": "Llano Estacado RoboRaiders"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.83073,
+                    31.04029
+                ]
+            },
+            "properties": {
+                "website": "http://www.firstinspires.org/",
+                "name": "Bezos Foundation / Texas Workforce Commission / Navigator Oil Company & VAN HORN H S",
+                "locality": "Van Horn",
+                "rookie_year": 2008,
+                "region": "Texas",
+                "team_number": 2613,
+                "location": "Van Horn, Texas, USA",
+                "key": "frc2613",
+                "country_name": "USA",
+                "motto": "That which we do not create--- we will obliterate",
+                "nickname": "PROTOBOTS"
             }
         },
         {
@@ -58587,8 +59691,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.16667,
-                    39.66667
+                    30.52056,
+                    39.77667
                 ]
             },
             "properties": {
@@ -58626,29 +59730,6 @@
                 "country_name": "USA",
                 "motto": null,
                 "nickname": "Team Hero"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.2091,
-                    29.69106
-                ]
-            },
-            "properties": {
-                "website": "http://www.team231.com",
-                "name": "Texas Workforce Commisson/Oceaneering Space Systems/LyondellBasell/Chevron Phillips & Pasadena Independent School District",
-                "locality": "Pasadena",
-                "rookie_year": 1998,
-                "region": "Texas",
-                "team_number": 231,
-                "location": "Pasadena, Texas, USA",
-                "key": "frc231",
-                "country_name": "USA",
-                "motto": null,
-                "nickname": "High Voltage"
             }
         },
         {
@@ -58833,52 +59914,6 @@
                 "country_name": "USA",
                 "motto": "Dark Knights are Bright",
                 "nickname": "Dark Knights"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36327,
-                    29.76328
-                ]
-            },
-            "properties": {
-                "website": "http://www.jerseyvoltage.com",
-                "name": "Texas Direct Auto & Associates / Oceaneering International / NAPA / EMI / Dent Free America / Texas Workforce Commission / Chandra Foundation / Redstone / Attractions Unlimited, Inc. / T Systems / The Nut Place / Shawn's Custom Tees / All Media Printers / Fortified & Jersey Village High School",
-                "locality": "Houston",
-                "rookie_year": 2013,
-                "region": "Texas",
-                "team_number": 4587,
-                "location": "Houston, Texas, USA",
-                "key": "frc4587",
-                "country_name": "USA",
-                "motto": "It's all about the Voltage",
-                "nickname": "Jersey Voltage"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.8244,
-                    29.78579
-                ]
-            },
-            "properties": {
-                "website": "http://www.team4639.org",
-                "name": "NALCO Champion/Schlumberger/GE/Bechtel/Texas Workforce Commission/Greater Texas Foundation/FIRST® in Texas/PTC/Phillips 66/HEB/Walmart/Dow Chemical & Seven Lakes High School",
-                "locality": "Katy",
-                "rookie_year": 2013,
-                "region": "Texas",
-                "team_number": 4639,
-                "location": "Katy, Texas, USA",
-                "key": "frc4639",
-                "country_name": "USA",
-                "motto": null,
-                "nickname": "RoboSpartans"
             }
         },
         {
@@ -59185,6 +60220,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -97.74306,
+                    30.26715
+                ]
+            },
+            "properties": {
+                "website": "http://www.team2583.org",
+                "name": "3M/Texas Workforce Commission/IBM/Dell/Reddwerks & Westwood H S",
+                "locality": "Austin",
+                "rookie_year": 2008,
+                "region": "Texas",
+                "team_number": 2583,
+                "location": "Austin, Texas, USA",
+                "key": "frc2583",
+                "country_name": "USA",
+                "motto": "Capture the Flag",
+                "nickname": "RoboWarriors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -96.84833,
                     32.38653
                 ]
@@ -59224,29 +60282,6 @@
                 "country_name": "USA",
                 "motto": "“No I Cant’s” As a team we can do anything and everything we set our minds to.",
                 "nickname": "Metallic Clouds"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.084165,
-                    26.448915
-                ]
-            },
-            "properties": {
-                "website": "http:///N/A",
-                "name": "Snap-on Tools/Classic Fence/Lockheed Martin & American Heritage School - Boca/Delray",
-                "locality": "Delray Beach",
-                "rookie_year": 2015,
-                "region": "Florida",
-                "team_number": 5472,
-                "location": "Delray Beach, Florida, USA",
-                "key": "frc5472",
-                "country_name": "USA",
-                "motto": "We will figure it out",
-                "nickname": "Stallions"
             }
         },
         {
@@ -59576,6 +60611,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -110.764021,
+                    43.47675
+                ]
+            },
+            "properties": {
+                "website": "http://www.jhhsrobobroncs.net/",
+                "name": "Teton County School District / Teton County Education Foundation / Epsilon Technology / Foster Freiss Private Sector Solutions / Bison Lumber & Jackson Hole High School",
+                "locality": "Jackson",
+                "rookie_year": 2010,
+                "region": "Wyoming",
+                "team_number": 3374,
+                "location": "Jackson, Wyoming, USA",
+                "key": "frc3374",
+                "country_name": "USA",
+                "motto": "Build me a ROBOT!",
+                "nickname": "RoboBroncs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -112.29828,
                     40.53078
                 ]
@@ -59737,8 +60795,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -115.14548,
-                    36.242996
+                    -115.279104,
+                    36.190364
                 ]
             },
             "properties": {
@@ -60013,8 +61071,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.03603,
-                    37.26663
+                    -79.67976,
+                    37.52736
                 ]
             },
             "properties": {
@@ -60381,8 +61439,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.340733,
-                    37.026814
+                    -76.319456,
+                    37.03393
                 ]
             },
             "properties": {
@@ -60818,8 +61876,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.259228,
-                    38.8815
+                    -77.26526,
+                    38.90122
                 ]
             },
             "properties": {
@@ -60841,8 +61899,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.259228,
-                    38.8815
+                    -77.26526,
+                    38.90122
                 ]
             },
             "properties": {
@@ -61002,18 +62060,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.29181,
-                    48.06843
+                    -122.17708,
+                    48.05176
                 ]
             },
             "properties": {
                 "website": "http://www.pengbots2660.org/",
                 "name": "BE Aerospace/Boeing & Marysville Arts and Technology High School",
-                "locality": "Tulalip",
+                "locality": "Marysville",
                 "rookie_year": 2008,
                 "region": "Washington",
                 "team_number": 2660,
-                "location": "Tulalip, Washington, USA",
+                "location": "Marysville, Washington, USA",
                 "key": "frc2660",
                 "country_name": "USA",
                 "motto": "Who are we? 26-60",
@@ -63256,6 +64314,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -89.395609,
+                    43.081309
+                ]
+            },
+            "properties": {
+                "website": "http://www.badgerbots.org",
+                "name": "Isthmus Engineering & Manufacturing/Plastic Ingenuity & BadgerBOTS Robotics",
+                "locality": "Madison",
+                "rookie_year": 2004,
+                "region": "Wisconsin",
+                "team_number": 1306,
+                "location": "Madison, Wisconsin, USA",
+                "key": "frc1306",
+                "country_name": "USA",
+                "motto": "Building on Talented Students",
+                "nickname": "BadgerBOTS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -90.47846,
                     42.73416
                 ]
@@ -63318,6 +64399,29 @@
                 "country_name": "USA",
                 "motto": "We Build More Than Just Smokin' Robots",
                 "nickname": "Fondy Fire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.628797,
+                    44.961106
+                ]
+            },
+            "properties": {
+                "website": "http://saberrobotics.org",
+                "name": "Ladish Co. Foundation / Underwriters Laboratory / GE Volunteers of GE Healthcare / Rockwell Automation / Snap-On Tools / Krones / MSOE & Franklin High",
+                "locality": "Franklin",
+                "rookie_year": 2008,
+                "region": "Wisconsin",
+                "team_number": 2506,
+                "location": "Franklin, Wisconsin, USA",
+                "key": "frc2506",
+                "country_name": "USA",
+                "motto": "Syncing our teeth into technology",
+                "nickname": "Saber Robotics"
             }
         },
         {
@@ -63410,6 +64514,29 @@
                 "country_name": "USA",
                 "motto": "We don't just build robots, we build people",
                 "nickname": "Manitowoc County Droid Rage 3381"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.82213,
+                    43.73197
+                ]
+            },
+            "properties": {
+                "website": "http://www.roboriotteam3418.org",
+                "name": "Kohler Co. / Vollrath / Curt G. Joa, Inc. / Sargento Foods Inc. / Advantage Prototype Systems / Englewood Electric / Bemis Manufacturing Company / PanelTEK LLC / Will-Pemco-Bielomatik & Sheboygan Falls High",
+                "locality": "Sheboygan Falls",
+                "rookie_year": 2010,
+                "region": "Wisconsin",
+                "team_number": 3418,
+                "location": "Sheboygan Falls, Wisconsin, USA",
+                "key": "frc3418",
+                "country_name": "USA",
+                "motto": "Overcoming diversity to become one",
+                "nickname": "Robo Riot"
             }
         },
         {
@@ -63601,8 +64728,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -91.49283,
-                    43.67144
+                    -91.56848,
+                    43.7633
                 ]
             },
             "properties": {
@@ -63785,29 +64912,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.395609,
-                    43.081309
-                ]
-            },
-            "properties": {
-                "website": "http://www.badgerbots.org",
-                "name": "Isthmus Engineering & Manufacturing/Plastic Ingenuity & BadgerBOTS Robotics",
-                "locality": "Madison",
-                "rookie_year": 2004,
-                "region": "Wisconsin",
-                "team_number": 1306,
-                "location": "Madison, Wisconsin, USA",
-                "key": "frc1306",
-                "country_name": "USA",
-                "motto": "Building on Talented Students",
-                "nickname": "BadgerBOTS"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -88.064638,
                     44.44675
                 ]
@@ -63900,29 +65004,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.628797,
-                    44.961106
-                ]
-            },
-            "properties": {
-                "website": "http://saberrobotics.org",
-                "name": "Ladish Co. Foundation / Underwriters Laboratory / GE Volunteers of GE Healthcare / Rockwell Automation / Snap-On Tools / Krones / MSOE & Franklin High",
-                "locality": "Franklin",
-                "rookie_year": 2008,
-                "region": "Wisconsin",
-                "team_number": 2506,
-                "location": "Franklin, Wisconsin, USA",
-                "key": "frc2506",
-                "country_name": "USA",
-                "motto": "Syncing our teeth into technology",
-                "nickname": "Saber Robotics"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -87.989576,
                     43.299645
                 ]
@@ -63939,29 +65020,6 @@
                 "country_name": "USA",
                 "motto": null,
                 "nickname": "HexHounds"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.82213,
-                    43.73197
-                ]
-            },
-            "properties": {
-                "website": "http://www.roboriotteam3418.org",
-                "name": "Kohler Co. / Vollrath / Curt G. Joa, Inc. / Sargento Foods Inc. / Advantage Prototype Systems / Englewood Electric / Bemis Manufacturing Company / PanelTEK LLC / Will-Pemco-Bielomatik & Sheboygan Falls High",
-                "locality": "Sheboygan Falls",
-                "rookie_year": 2010,
-                "region": "Wisconsin",
-                "team_number": 3418,
-                "location": "Sheboygan Falls, Wisconsin, USA",
-                "key": "frc3418",
-                "country_name": "USA",
-                "motto": "Overcoming diversity to become one",
-                "nickname": "Robo Riot"
             }
         },
         {

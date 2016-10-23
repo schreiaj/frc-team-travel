@@ -3,6 +3,7 @@
 var request = require('sync-request');
 var sleep = require('sleep');
 var fs = require('fs');
+var iso3166 = require('countrynames');
 
 const MAPZEN_KEY = process.env.MAPZEN_KEY || '';
 if (MAPZEN_KEY==='') {
@@ -41,18 +42,28 @@ events.map((e) => {
 for (var k in allTeams) {
   try {
     if(!allTeams[k].location) { continue }
-    let res = request('get', `https://search.mapzen.com/v1/search?text=${encodeURIComponent(allTeams[k].location)}&size=1&api_key=${MAPZEN_KEY}`);
+    let team = allTeams[k] || {};
+    let country_name = team.country_name || "USA";
+    let countryCode = iso3166.getCode(country_name);
+    let countrySearch = '';
+    if(!countryCode === undefined) {
+      countrySearch = `boundary.country=${countryCode}`;
+    }
+    let locParts = team.location.split(',');
+    let location = `${locParts[0]}, ${locParts[1]},`
+    let res = request('get', `https://search.mapzen.com/v1/search?text=${encodeURIComponent(location)}&size=1&api_key=${MAPZEN_KEY}&${countrySearch}`);
     allTeams[k].position = JSON.parse(res.getBody()).features[0].geometry.coordinates;
     sleep.usleep(0.17*1000000)
     console.log(allTeams[k]);
   } catch (e) {
-
+    console.log(e);
   }
 }
 
 for (var k in allEvents) {
   try {
-    let res = request('get', `https://search.mapzen.com/v1/search?text=${encodeURIComponent(allEvents[k].location)}&size=1&api_key=${MAPZEN_KEY}`);
+
+    let res = request('get', `https://search.mapzen.com/v1/search?text=${encodeURIComponent(allEvents[k].venue_address)}&size=1&api_key=${MAPZEN_KEY}`);
     allEvents[k].position = JSON.parse(res.getBody()).features[0].geometry.coordinates;
     sleep.usleep(0.17*1000000)
     console.log(allEvents[k]);

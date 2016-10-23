@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "arc": "^0.1.0",
+    "countrynames": "^0.1.1",
     "geojson": "^0.4.0",
     "react-scripts": "0.6.1",
     "sleep": "^4.0.0",
@@ -19,7 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "fetch_data": "node --use_strict fetch_event_data.js",
-    "geo": "node --use_strict generate_geojson.js"
+    "fetch": "node --use_strict fetch_event_data.js",
+    "geo": "node --use_strict generate_geojson.js",
+    "gen": "node --use_strict generate_paths.js"
   }
 }

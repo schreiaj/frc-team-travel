@@ -41,6 +41,7 @@
                     "frc4733",
                     "frc5015",
                     "frc5515",
+                    "frc5725",
                     "frc5897",
                     "frc6008",
                     "frc6082",
@@ -63,8 +64,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.616034,
-                    34.756007
+                    -86.590698,
+                    34.728172
                 ]
             },
             "properties": {
@@ -133,8 +134,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -114.133589,
+                    32.671922
                 ]
             },
             "properties": {
@@ -166,8 +167,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -92.355844,
-                    34.713561
+                    -92.298903,
+                    34.718697
                 ]
             },
             "properties": {
@@ -196,6 +197,7 @@
                     "frc16",
                     "frc1764",
                     "frc1775",
+                    "frc1912",
                     "frc2992",
                     "frc3039",
                     "frc3061",
@@ -211,13 +213,16 @@
                     "frc3937",
                     "frc3991",
                     "frc4490",
+                    "frc4635",
                     "frc5002",
                     "frc5006",
+                    "frc5045",
                     "frc5437",
                     "frc5454",
                     "frc5541",
                     "frc5568",
                     "frc5729",
+                    "frc5889",
                     "frc6055",
                     "frc6131",
                     "frc6183",
@@ -231,8 +236,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.069547,
-                    -33.845007
+                    135,
+                    -25
                 ]
             },
             "properties": {
@@ -257,19 +262,36 @@
                 "start_date": "2017-03-13",
                 "event_type": 0,
                 "teams": [
+                    "frc1772",
                     "frc3132",
                     "frc4253",
                     "frc4537",
+                    "frc4729",
+                    "frc4739",
+                    "frc4774",
                     "frc4801",
                     "frc4817",
+                    "frc5087",
+                    "frc5331",
                     "frc5573",
                     "frc5584",
                     "frc5593",
                     "frc5983",
+                    "frc5985",
+                    "frc6007",
+                    "frc6035",
+                    "frc6050",
+                    "frc6061",
+                    "frc6062",
+                    "frc6191",
                     "frc6204",
                     "frc6511",
                     "frc6520",
-                    "frc6521"
+                    "frc6521",
+                    "frc6522",
+                    "frc6523",
+                    "frc6524",
+                    "frc6525"
                 ]
             }
         },
@@ -278,8 +300,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.069547,
-                    -33.845007
+                    135,
+                    -25
                 ]
             },
             "properties": {
@@ -377,6 +399,7 @@
                     "frc2375",
                     "frc2478",
                     "frc2486",
+                    "frc2647",
                     "frc3009",
                     "frc3019",
                     "frc3187",
@@ -398,6 +421,7 @@
                     "frc6352",
                     "frc6482",
                     "frc6518",
+                    "frc6530",
                     "frc842",
                     "frc996"
                 ]
@@ -408,8 +432,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -112.07404,
-                    33.44838
+                    -112.12901,
+                    33.510232
                 ]
             },
             "properties": {
@@ -558,8 +582,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.82311,
-                    33.66946
+                    -117.842558,
+                    33.644356
                 ]
             },
             "properties": {
@@ -630,8 +654,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.18923,
-                    33.76696
+                    -118.120983,
+                    33.784294
                 ]
             },
             "properties": {
@@ -714,8 +738,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -120.076345,
-                    36.964948
+                    -120.067341,
+                    36.941095
                 ]
             },
             "properties": {
@@ -786,8 +810,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -114.133589,
+                    32.671922
                 ]
             },
             "properties": {
@@ -819,8 +843,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.3577,
+                    29.752
                 ]
             },
             "properties": {
@@ -852,8 +876,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -118.191854,
-                    33.813644
+                    -117.261175,
+                    32.975861
                 ]
             },
             "properties": {
@@ -937,8 +961,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.431272,
-                    37.778008
+                    -122.496589,
+                    37.747781
                 ]
             },
             "properties": {
@@ -1088,8 +1112,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -119.29317,
-                    34.27834
+                    -119.231961,
+                    34.276258
                 ]
             },
             "properties": {
@@ -1155,8 +1179,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.473927,
-                    37.519231
+                    -77.452594,
+                    37.552264
                 ]
             },
             "properties": {
@@ -1188,8 +1212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -114.133589,
+                    32.671922
                 ]
             },
             "properties": {
@@ -1221,8 +1245,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.3577,
+                    29.752
                 ]
             },
             "properties": {
@@ -1254,8 +1278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -104.986967,
-                    39.741111
+                    -104.962264,
+                    39.681313
                 ]
             },
             "properties": {
@@ -1302,6 +1326,7 @@
                     "frc3648",
                     "frc3729",
                     "frc3807",
+                    "frc399",
                     "frc4068",
                     "frc4153",
                     "frc4293",
@@ -1324,8 +1349,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.024448,
-                    41.341009
+                    -72.68509,
+                    41.76371
                 ]
             },
             "properties": {
@@ -1394,8 +1419,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.037148,
-                    41.556395
+                    -73.037159,
+                    41.556533
                 ]
             },
             "properties": {
@@ -1464,8 +1489,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -114.133589,
+                    32.671922
                 ]
             },
             "properties": {
@@ -1497,8 +1522,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -114.133589,
+                    32.671922
                 ]
             },
             "properties": {
@@ -1530,8 +1555,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -114.133589,
+                    32.671922
                 ]
             },
             "properties": {
@@ -1563,8 +1588,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.37924,
-                    28.53834
+                    -81.29782,
+                    28.41773
                 ]
             },
             "properties": {
@@ -1595,6 +1620,7 @@
                     "frc1649",
                     "frc1744",
                     "frc180",
+                    "frc1872",
                     "frc1902",
                     "frc1972",
                     "frc21",
@@ -1621,7 +1647,9 @@
                     "frc5276",
                     "frc5283",
                     "frc5412",
+                    "frc5472",
                     "frc5722",
+                    "frc5753",
                     "frc5800",
                     "frc5816",
                     "frc5842",
@@ -1633,6 +1661,7 @@
                     "frc6322",
                     "frc6409",
                     "frc6473",
+                    "frc6527",
                     "frc744",
                     "frc79",
                     "frc801",
@@ -1646,8 +1675,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.161387,
-                    26.752516
+                    -80.058643,
+                    26.70412
                 ]
             },
             "properties": {
@@ -1693,6 +1722,7 @@
                     "frc5819",
                     "frc5872",
                     "frc59",
+                    "frc5993",
                     "frc6001",
                     "frc6038",
                     "frc6225",
@@ -1712,8 +1742,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.17833,
-                    31.580711
+                    -84.150046,
+                    31.573824
                 ]
             },
             "properties": {
@@ -1760,6 +1790,8 @@
                     "frc5632",
                     "frc5734",
                     "frc5840",
+                    "frc5848",
+                    "frc6349",
                     "frc6471"
                 ]
             }
@@ -1769,8 +1801,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.37794,
-                    33.96095
+                    -83.377846,
+                    33.942406
                 ]
             },
             "properties": {
@@ -1802,8 +1834,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.98771,
-                    32.46098
+                    -84.941598,
+                    32.50153
                 ]
             },
             "properties": {
@@ -1928,8 +1960,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.82407,
-                    34.29788
+                    -83.82999,
+                    34.28974
                 ]
             },
             "properties": {
@@ -1994,8 +2026,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.3577,
+                    29.752
                 ]
             },
             "properties": {
@@ -2027,8 +2059,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    114.08094,
-                    22.559659
+                    113.930539,
+                    22.551224
                 ]
             },
             "properties": {
@@ -2103,8 +2135,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -157.85833,
-                    21.30694
+                    -157.818873,
+                    21.294308
                 ]
             },
             "properties": {
@@ -2140,6 +2172,7 @@
                     "frc2504",
                     "frc2853",
                     "frc2896",
+                    "frc3008",
                     "frc368",
                     "frc3721",
                     "frc3878",
@@ -2148,6 +2181,8 @@
                     "frc3882",
                     "frc4253",
                     "frc4270",
+                    "frc4584",
+                    "frc4685",
                     "frc5831",
                     "frc6353"
                 ]
@@ -2158,8 +2193,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.3577,
+                    29.752
                 ]
             },
             "properties": {
@@ -2191,8 +2226,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -92.464026,
-                    42.522184
+                    -92.45326,
+                    42.51969
                 ]
             },
             "properties": {
@@ -2307,6 +2342,7 @@
                     "frc1836",
                     "frc1891",
                     "frc2594",
+                    "frc3513",
                     "frc4175",
                     "frc4984",
                     "frc5430",
@@ -2323,8 +2359,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.666227,
-                    41.81173
+                    -87.656132,
+                    41.874882
                 ]
             },
             "properties": {
@@ -2401,8 +2437,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -89.58899,
-                    40.69365
+                    -89.617946,
+                    40.69908
                 ]
             },
             "properties": {
@@ -2498,8 +2534,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.171818,
-                    41.665417
+                    -86.16706,
+                    41.67183
                 ]
             },
             "properties": {
@@ -2542,6 +2578,7 @@
                     "frc4580",
                     "frc461",
                     "frc4824",
+                    "frc4846",
                     "frc4982",
                     "frc5403",
                     "frc5484",
@@ -2555,8 +2592,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -86.15804,
-                    39.76838
+                    -86.14578,
+                    39.77712
                 ]
             },
             "properties": {
@@ -2612,6 +2649,7 @@
                     "frc5944",
                     "frc6012",
                     "frc6451",
+                    "frc6498",
                     "frc71",
                     "frc829",
                     "frc868"
@@ -2678,9 +2716,11 @@
                     "frc461",
                     "frc4824",
                     "frc4926",
+                    "frc4982",
                     "frc5010",
                     "frc5188",
                     "frc5402",
+                    "frc6451",
                     "frc6498",
                     "frc829",
                     "frc868"
@@ -2692,8 +2732,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.803859,
-                    32.060564
+                    34.78057,
+                    32.08088
                 ]
             },
             "properties": {
@@ -2725,8 +2765,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.249663,
-                    53.590447
+                    34.75,
+                    31.5
                 ]
             },
             "properties": {
@@ -2758,8 +2798,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.249663,
-                    53.590447
+                    34.75,
+                    31.5
                 ]
             },
             "properties": {
@@ -2791,8 +2831,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.249663,
-                    53.590447
+                    34.75,
+                    31.5
                 ]
             },
             "properties": {
@@ -2824,8 +2864,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.249663,
-                    53.590447
+                    34.75,
+                    31.5
                 ]
             },
             "properties": {
@@ -2857,8 +2897,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.24174,
-                    29.99409
+                    -90.241093,
+                    30.039532
                 ]
             },
             "properties": {
@@ -2893,6 +2933,7 @@
                     "frc281",
                     "frc283",
                     "frc2992",
+                    "frc3039",
                     "frc3337",
                     "frc3481",
                     "frc3606",
@@ -2905,11 +2946,14 @@
                     "frc3991",
                     "frc4087",
                     "frc4107",
+                    "frc4209",
                     "frc4336",
                     "frc4353",
                     "frc456",
+                    "frc4587",
                     "frc4641",
                     "frc4978",
+                    "frc5006",
                     "frc5819",
                     "frc5864",
                     "frc5965",
@@ -2924,8 +2968,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.988622,
-                    42.413656
+                    -71.007127,
+                    42.412337
                 ]
             },
             "properties": {
@@ -2964,6 +3008,7 @@
                     "frc6201",
                     "frc6301",
                     "frc6367",
+                    "frc6529",
                     "frc97"
                 ]
             }
@@ -2973,8 +3018,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.973359,
-                    41.974796
+                    -70.992002,
+                    41.989212
                 ]
             },
             "properties": {
@@ -3028,6 +3073,7 @@
                     "frc6201",
                     "frc6224",
                     "frc6333",
+                    "frc6529",
                     "frc78",
                     "frc88"
                 ]
@@ -3038,8 +3084,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.108385,
-                    42.527018
+                    -71.109327,
+                    42.534995
                 ]
             },
             "properties": {
@@ -3107,8 +3153,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.80273,
-                    42.275028
+                    -71.808032,
+                    42.27412
                 ]
             },
             "properties": {
@@ -3116,8 +3162,8 @@
                 "website": "http://www.nefirst.org/",
                 "official": true,
                 "end_date": "2017-03-10",
-                "name": "NE District - WPI Event",
-                "short_name": "WPI",
+                "name": "NE District - Worcester Polytechnic Institute Event",
+                "short_name": "Worcester Polytechnic Institute",
                 "facebook_eid": null,
                 "event_district_string": "New England",
                 "venue_address": "WPI Harrington Auditorium \n100 Institute Road\nWorcester, MA 01609\nUSA",
@@ -3176,8 +3222,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.10026,
-                    38.98067
+                    -77.129582,
+                    38.97941
                 ]
             },
             "properties": {
@@ -3308,8 +3354,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.78025,
-                    39.41955
+                    -76.777201,
+                    39.393688
                 ]
             },
             "properties": {
@@ -3374,8 +3420,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.167221,
-                    44.099905
+                    -70.205183,
+                    44.095586
                 ]
             },
             "properties": {
@@ -3444,8 +3490,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.736922,
-                    42.279766
+                    -83.74088,
+                    42.27756
                 ]
             },
             "properties": {
@@ -3559,6 +3605,7 @@
                     "frc5915",
                     "frc6029",
                     "frc6057",
+                    "frc6528",
                     "frc815"
                 ]
             }
@@ -3568,8 +3615,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.027198,
-                    42.480849
+                    -83.018885,
+                    42.487154
                 ]
             },
             "properties": {
@@ -3609,11 +3656,13 @@
                     "frc4851",
                     "frc5065",
                     "frc5197",
+                    "frc5214",
                     "frc5532",
                     "frc5555",
                     "frc5642",
                     "frc5756",
                     "frc5915",
+                    "frc6096",
                     "frc6099",
                     "frc6108",
                     "frc818"
@@ -3658,8 +3707,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.06458,
-                    45.74525
+                    -87.079829,
+                    45.742409
                 ]
             },
             "properties": {
@@ -3685,6 +3734,7 @@
                 "event_type": 1,
                 "teams": [
                     "frc1322",
+                    "frc2586",
                     "frc3602",
                     "frc3617",
                     "frc3767",
@@ -3845,8 +3895,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.686948,
-                    43.025192
+                    -83.713938,
+                    43.013697
                 ]
             },
             "properties": {
@@ -3958,8 +4008,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.686948,
-                    43.025192
+                    -83.713938,
+                    43.013697
                 ]
             },
             "properties": {
@@ -3985,6 +4035,7 @@
                 "event_type": 1,
                 "teams": [
                     "frc1243",
+                    "frc1322",
                     "frc1506",
                     "frc1684",
                     "frc2337",
@@ -4086,8 +4137,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.44358,
-                    42.5792
+                    -84.440681,
+                    42.574464
                 ]
             },
             "properties": {
@@ -4271,8 +4322,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.48686,
-                    42.91253
+                    -82.473683,
+                    42.90886
                 ]
             },
             "properties": {
@@ -4334,8 +4385,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.24721,
-                    43.61558
+                    -84.27359,
+                    43.638682
                 ]
             },
             "properties": {
@@ -4459,8 +4510,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.268688,
-                    42.473713
+                    -83.263209,
+                    42.468611
                 ]
             },
             "properties": {
@@ -4517,8 +4568,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.14993,
-                    42.60559
+                    -83.113321,
+                    42.581162
                 ]
             },
             "properties": {
@@ -4580,8 +4631,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.62063,
-                    44.76306
+                    -85.588731,
+                    44.755251
                 ]
             },
             "properties": {
@@ -4703,8 +4754,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.956931,
-                    42.979171
+                    -85.991161,
+                    42.996879
                 ]
             },
             "properties": {
@@ -4743,6 +4794,7 @@
                     "frc4956",
                     "frc5162",
                     "frc5173",
+                    "frc5255",
                     "frc5448",
                     "frc5470",
                     "frc5610",
@@ -4751,6 +4803,7 @@
                     "frc6065",
                     "frc6094",
                     "frc6114",
+                    "frc6128",
                     "frc6428",
                     "frc74",
                     "frc85"
@@ -4922,8 +4975,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.266525,
-                    44.963108
+                    -93.227918,
+                    44.976862
                 ]
             },
             "properties": {
@@ -5013,8 +5066,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -93.266525,
-                    44.963108
+                    -93.227931,
+                    44.978002
                 ]
             },
             "properties": {
@@ -5097,8 +5150,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -94.57857,
-                    39.09973
+                    -94.501664,
+                    39.13887
                 ]
             },
             "properties": {
@@ -5184,8 +5237,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -90.227527,
+                    38.632074
                 ]
             },
             "properties": {
@@ -5298,8 +5351,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.249663,
-                    53.590447
+                    -102.289691,
+                    23.920061
                 ]
             },
             "properties": {
@@ -5333,8 +5386,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -103.407695,
-                    25.539832
+                    -102.289691,
+                    23.920061
                 ]
             },
             "properties": {
@@ -5369,13 +5422,16 @@
                     "frc5312",
                     "frc5526",
                     "frc5705",
+                    "frc5959",
                     "frc6010",
                     "frc6017",
                     "frc6200",
                     "frc6243",
                     "frc6319",
                     "frc6407",
-                    "frc6444"
+                    "frc6444",
+                    "frc6483",
+                    "frc6507"
                 ]
             }
         },
@@ -5384,8 +5440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -82.55402,
-                    35.60095
+                    -82.568865,
+                    35.618146
                 ]
             },
             "properties": {
@@ -5474,8 +5530,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.79198,
-                    36.07264
+                    -79.8273,
+                    36.09596
                 ]
             },
             "properties": {
@@ -5534,8 +5590,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -78.63861,
-                    35.7721
+                    -78.604098,
+                    35.745348
                 ]
             },
             "properties": {
@@ -5687,8 +5743,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.3577,
+                    29.752
                 ]
             },
             "properties": {
@@ -5720,8 +5776,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.530501,
-                    42.939692
+                    -71.518234,
+                    42.936303
                 ]
             },
             "properties": {
@@ -5789,8 +5845,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.350964,
-                    42.802334
+                    -71.322513,
+                    42.795106
                 ]
             },
             "properties": {
@@ -5855,8 +5911,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.64815,
-                    40.60079
+                    -74.632936,
+                    40.592342
                 ]
             },
             "properties": {
@@ -5909,8 +5965,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -72.207753,
-                    41.368877
+                    -74.49987,
+                    40.16706
                 ]
             },
             "properties": {
@@ -6040,8 +6096,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -74.647345,
-                    39.823561
+                    -74.721478,
+                    39.856646
                 ]
             },
             "properties": {
@@ -6107,8 +6163,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -115.14548,
-                    36.242996
+                    -115.130397,
+                    36.179376
                 ]
             },
             "properties": {
@@ -6179,8 +6235,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.605696,
-                    40.666172
+                    -73.596857,
+                    40.719724
                 ]
             },
             "properties": {
@@ -6208,6 +6264,7 @@
                     "frc1156",
                     "frc1468",
                     "frc1537",
+                    "frc1546",
                     "frc1554",
                     "frc1601",
                     "frc1635",
@@ -6263,8 +6320,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.4999,
-                    43.00035
+                    -73.93827,
+                    40.66393
                 ]
             },
             "properties": {
@@ -6326,6 +6383,7 @@
                     "frc5599",
                     "frc5806",
                     "frc5891",
+                    "frc6195",
                     "frc6354",
                     "frc640",
                     "frc6402",
@@ -6472,8 +6530,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.677084,
-                    42.718627
+                    -73.69179,
+                    42.72841
                 ]
             },
             "properties": {
@@ -6528,8 +6586,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -81.69541,
-                    41.4995
+                    -81.651543,
+                    41.493269
                 ]
             },
             "properties": {
@@ -6613,8 +6671,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -84.130685,
-                    39.780768
+                    -83.813847,
+                    39.933456
                 ]
             },
             "properties": {
@@ -6684,8 +6742,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.51643,
-                    35.46756
+                    -97.515516,
+                    35.469044
                 ]
             },
             "properties": {
@@ -6821,6 +6879,7 @@
                     "frc5885",
                     "frc6336",
                     "frc6513",
+                    "frc6514",
                     "frc771",
                     "frc781",
                     "frc865"
@@ -6923,6 +6982,7 @@
                     "frc6330",
                     "frc6339",
                     "frc6342",
+                    "frc6387",
                     "frc6481",
                     "frc748",
                     "frc771",
@@ -7025,6 +7085,7 @@
                 "teams": [
                     "frc1075",
                     "frc1305",
+                    "frc1846",
                     "frc2013",
                     "frc2708",
                     "frc3543",
@@ -7112,6 +7173,7 @@
                     "frc6110",
                     "frc6323",
                     "frc6339",
+                    "frc6513",
                     "frc772",
                     "frc781"
                 ]
@@ -7302,6 +7364,7 @@
                     "frc6331",
                     "frc6342",
                     "frc6347",
+                    "frc6461",
                     "frc6481"
                 ]
             }
@@ -7337,6 +7400,7 @@
                 "start_date": "2017-03-30",
                 "event_type": 1,
                 "teams": [
+                    "frc1846",
                     "frc2634",
                     "frc4595",
                     "frc4688",
@@ -7367,8 +7431,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.705254,
-                    45.407547
+                    -122.704842,
+                    45.426282
                 ]
             },
             "properties": {
@@ -7432,8 +7496,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.6049,
-                    45.342098
+                    -122.595709,
+                    45.355989
                 ]
             },
             "properties": {
@@ -7500,8 +7564,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.77371,
-                    45.29984
+                    -122.7704,
+                    45.31055
                 ]
             },
             "properties": {
@@ -7574,8 +7638,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -119.75126,
-                    37.25022
+                    -79.921396,
+                    40.082279
                 ]
             },
             "properties": {
@@ -7602,6 +7666,7 @@
                 "teams": [
                     "frc117",
                     "frc144",
+                    "frc156",
                     "frc1708",
                     "frc1743",
                     "frc2051",
@@ -7609,6 +7674,7 @@
                     "frc2544",
                     "frc2641",
                     "frc2656",
+                    "frc291",
                     "frc3062",
                     "frc3260",
                     "frc3492",
@@ -7638,8 +7704,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.166469,
-                    40.199566
+                    -75.163885,
+                    40.197013
                 ]
             },
             "properties": {
@@ -7705,8 +7771,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.149833,
-                    40.005459
+                    -75.206901,
+                    40.063493
                 ]
             },
             "properties": {
@@ -7768,8 +7834,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -75.606068,
-                    39.959519
+                    -75.606063,
+                    39.960203
                 ]
             },
             "properties": {
@@ -7796,6 +7862,7 @@
                 "teams": [
                     "frc1143",
                     "frc1168",
+                    "frc1370",
                     "frc1495",
                     "frc1640",
                     "frc1712",
@@ -7934,8 +8001,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.54951,
-                    41.92204
+                    -71.53358,
+                    41.921212
                 ]
             },
             "properties": {
@@ -8003,8 +8070,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.3577,
+                    29.752
                 ]
             },
             "properties": {
@@ -8036,8 +8103,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -78.923671,
-                    33.673182
+                    -78.75433,
+                    33.81256
                 ]
             },
             "properties": {
@@ -8065,6 +8132,7 @@
                     "frc1051",
                     "frc1102",
                     "frc120",
+                    "frc1287",
                     "frc1293",
                     "frc1319",
                     "frc1369",
@@ -8105,6 +8173,7 @@
                     "frc4547",
                     "frc4582",
                     "frc4847",
+                    "frc4901",
                     "frc4965",
                     "frc5022",
                     "frc5063",
@@ -8123,8 +8192,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.243894,
-                    38.632966
+                    -114.133589,
+                    32.671922
                 ]
             },
             "properties": {
@@ -8156,8 +8225,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -83.969472,
-                    35.973011
+                    -83.924956,
+                    35.953325
                 ]
             },
             "properties": {
@@ -8230,8 +8299,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.3577,
+                    29.752
                 ]
             },
             "properties": {
@@ -8263,8 +8332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -96.94889,
-                    32.81402
+                    -96.943565,
+                    32.878217
                 ]
             },
             "properties": {
@@ -8293,9 +8362,11 @@
                     "frc148",
                     "frc1745",
                     "frc1860",
+                    "frc2359",
                     "frc2468",
                     "frc2576",
                     "frc2723",
+                    "frc2773",
                     "frc2848",
                     "frc3005",
                     "frc31",
@@ -8327,6 +8398,7 @@
                     "frc6369",
                     "frc647",
                     "frc6488",
+                    "frc6526",
                     "frc704"
                 ]
             }
@@ -8336,8 +8408,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.36327,
-                    29.76328
+                    -95.541389,
+                    29.708712
                 ]
             },
             "properties": {
@@ -8363,7 +8435,9 @@
                 "event_type": 0,
                 "teams": [
                     "frc1255",
+                    "frc1642",
                     "frc2183",
+                    "frc231",
                     "frc2582",
                     "frc2587",
                     "frc2881",
@@ -8376,6 +8450,7 @@
                     "frc4219",
                     "frc4403",
                     "frc457",
+                    "frc4639",
                     "frc5070",
                     "frc5414",
                     "frc5427",
@@ -8425,6 +8500,7 @@
                     "frc2341",
                     "frc2352",
                     "frc2481",
+                    "frc2613",
                     "frc2657",
                     "frc2897",
                     "frc3043",
@@ -8529,8 +8605,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.202233,
-                    31.474748
+                    -97.14667,
+                    31.54933
                 ]
             },
             "properties": {
@@ -8556,7 +8632,9 @@
                 "event_type": 0,
                 "teams": [
                     "frc1296",
+                    "frc1642",
                     "frc2333",
+                    "frc2583",
                     "frc2805",
                     "frc2897",
                     "frc2950",
@@ -8565,6 +8643,7 @@
                     "frc3997",
                     "frc3999",
                     "frc418",
+                    "frc4192",
                     "frc4335",
                     "frc5414",
                     "frc5417",
@@ -8572,6 +8651,7 @@
                     "frc5472",
                     "frc6133",
                     "frc6171",
+                    "frc6321",
                     "frc6369",
                     "frc6448",
                     "frc647",
@@ -8584,8 +8664,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.48938,
-                    30.15799
+                    -95.471168,
+                    30.203836
                 ]
             },
             "properties": {
@@ -8620,7 +8700,8 @@
                     "frc5829",
                     "frc5888",
                     "frc5892",
-                    "frc6363"
+                    "frc6363",
+                    "frc6488"
                 ]
             }
         },
@@ -8629,8 +8710,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -112.011651,
-                    40.696754
+                    -111.950421,
+                    40.702838
                 ]
             },
             "properties": {
@@ -8660,6 +8741,7 @@
                     "frc2122",
                     "frc2403",
                     "frc2484",
+                    "frc2594",
                     "frc2972",
                     "frc2996",
                     "frc3166",
@@ -8671,6 +8753,7 @@
                     "frc3245",
                     "frc3288",
                     "frc3289",
+                    "frc3374",
                     "frc3598",
                     "frc4293",
                     "frc4334",
@@ -8679,6 +8762,7 @@
                     "frc4585",
                     "frc4598",
                     "frc4627",
+                    "frc5725",
                     "frc5933",
                     "frc5974",
                     "frc6082",
@@ -8696,8 +8780,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.431924,
-                    37.231157
+                    -80.459924,
+                    37.210768
                 ]
             },
             "properties": {
@@ -8826,8 +8910,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -77.636399,
-                    38.812386
+                    -77.44675,
+                    37.54812
                 ]
             },
             "properties": {
@@ -8892,8 +8976,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -76.344787,
-                    36.831635
+                    -76.374311,
+                    36.879562
                 ]
             },
             "properties": {
@@ -8954,8 +9038,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.228761,
-                    47.317254
+                    -122.219705,
+                    47.308596
                 ]
             },
             "properties": {
@@ -9164,8 +9248,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.31133,
-                    48.427235
+                    -122.328735,
+                    48.423451
                 ]
             },
             "properties": {
@@ -9225,8 +9309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -121.72218,
-                    48.04602
+                    -122.09702,
+                    47.92769
                 ]
             },
             "properties": {
@@ -9295,8 +9379,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -117.4058,
-                    47.660011
+                    -117.292061,
+                    47.684033
                 ]
             },
             "properties": {
@@ -9360,8 +9444,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -91.240604,
-                    43.84127
+                    -91.255677,
+                    43.812251
                 ]
             },
             "properties": {
@@ -9387,15 +9471,23 @@
                 "event_type": 0,
                 "teams": [
                     "frc1091",
+                    "frc1306",
                     "frc1625",
                     "frc167",
                     "frc171",
+                    "frc1739",
                     "frc2062",
                     "frc2194",
+                    "frc2232",
+                    "frc2451",
+                    "frc2506",
                     "frc269",
+                    "frc2826",
                     "frc2830",
+                    "frc2977",
                     "frc3090",
                     "frc3381",
+                    "frc3418",
                     "frc4021",
                     "frc4054",
                     "frc4247",
@@ -9405,6 +9497,7 @@
                     "frc5003",
                     "frc5019",
                     "frc5339",
+                    "frc5442",
                     "frc5586",
                     "frc5903",
                     "frc5914",
@@ -9421,8 +9514,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -87.942416,
-                    43.058302
+                    -87.916885,
+                    43.042259
                 ]
             },
             "properties": {
